@@ -1,20 +1,25 @@
-Repository: IPSC Stage Designs
-This repository contains IPSC Stage Designs created using Practisim Designer Software. Each stage design includes a 3D stage file in .stg format and a written stage briefing in .pdf format.
+IPSC Stage Designs Repository
+This repository contains IPSC Stage Designs created using Practisim Designer. Each stage design includes a 3D stage file in .stg format and a written stage briefing in .pdf format.
 
 Stage Designs
-The 3D stage designs are saved in .stg format, compatible with Practisim Designer Software.
+The 3D stage designs are saved in .stg format, compatible with Practisim Designer.
 Written Stage Briefings
 For each stage design, a corresponding .pdf file is provided, serving as a written stage briefing.
-Stage Design Files
-Stage Design File Format: .stg (Practisim Designer Software compatible)
+File Formats
+Stage Design File Format: .stg (Practisim Designer compatible)
 PDF Briefing Files: Corresponding PDF files provide a written stage briefing for each design.
 Prerequisites
-Practisim Designer Software: To view and edit the 3D stage designs (*.stg files), you need Practisim Software.
+To work with the stage designs and written briefings, you'll need the following:
 
-Website: Practisim Designer
-Steam: Practisim Software is available on Steam. You need a Steam account and the software installed to use the stage designs.
+Practisim Designer:
 
-Website: Adobe
-PDF Reader: To view the written stage briefings (*.pdf files), you need a PDF reader.
+Practisim Designer is the software used to create and edit the 3D stage designs (*.stg files).
+Download and install Practisim Designer from the official website.
+Steam:
 
-You can use popular PDF readers like Adobe Acrobat Reader, Sumatra PDF, or any other PDF reader of your choice.
+Practisim Designer is available on Steam. Ensure you have a Steam account and the software installed.
+Download and install Practisim Designer from Steam.
+PDF Reader:
+
+To view the written stage briefings (*.pdf files), you'll need a PDF reader.
+Use popular PDF readers like Adobe Acrobat Reader or Sumatra PDF, or any other PDF reader of your choice.
