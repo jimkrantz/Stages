@@ -9,7 +9,7 @@ This repository contains IPSC Stage Designs created using Practisim Designer. Ea
 ## Written Stage Briefings
 
 
-- For each stage design, a corresponding `.pdf` file is provided, serving as a written stage briefing.
+- For each stage design, a corresponding `.pdf` file is providded, serving as a written stage briefing.
 
 ## File Formats
 
