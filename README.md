@@ -30,3 +30,7 @@ To work with the stage designs and written briefings, you'll need the following:
 3. **PDF Reader:**
    - To view the written stage briefings (`*.pdf` files), you'll need a PDF reader.
    - Use popular PDF readers like Adobe Acrobat Reader or Sumatra PDF, or any other PDF reader of your choice.
+
+## MCTA_Bay_01 Specs
+
+All stages in folder MCTA_Bay_01 are fit for a bay that is 19 meters wide by 15 meters deep. These stages should only be used on bays with this spec or larger. In the future, stages will be added to other folders such as MCTA_Bay_03. These stages will be speced for a bay with different measurments. Do not attempt to use stages designened for large bays in smaller ones. This distroys the intent of the stage and can add safety issues. 
