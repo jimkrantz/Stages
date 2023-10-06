@@ -7,6 +7,17 @@ This repository contains IPSC Stage Designs created using Practisim Designer. Ea
 1. [Alpha](https://github.com/terrencetec/Stages/blob/b670432f21508aaa24d4bd35cdcd33d8d93d9fca/MCTA/MCTA_Bay_01/Alpha/Alpha-Krantz%2C%20Jim.pdf)
 2. [Beta](https://github.com/terrencetec/Stages/blob/b670432f21508aaa24d4bd35cdcd33d8d93d9fca/MCTA/MCTA_Bay_01/Beta/Beta-Krantz%2C%20Jim.pdf)
 
+## Instructions
+
+*Clone*
+To clone this repository. `cd` into some directory, and type
+```
+
+git clone https://github.com/jimkrantz/Stages.git
+
+```
+
+
 ## Stage Designs
 
 - The 3D stage designs are saved in `.stg` format, compatible with Practisim Designer.
