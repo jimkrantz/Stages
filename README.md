@@ -6,6 +6,10 @@ This repository contains IPSC Stage Designs created using Practisim Designer. Ea
 
 1. [Alpha](https://github.com/jimkrantz/Stages/blob/92218a75b2a311e76e471b195ae5472c2ca6a0d5/MCTA/MCTA_Bay_01/Alpha/Alpha-Krantz%2C%20Jim.pdf)
 2. [Beta](https://github.com/jimkrantz/Stages/blob/92218a75b2a311e76e471b195ae5472c2ca6a0d5/MCTA/MCTA_Bay_01/Beta/Beta-Krantz%2C%20Jim.pdf)
+3. [Gamma](https://github.com/jimkrantz/Stages/blob/92218a75b2a311e76e471b195ae5472c2ca6a0d5/MCTA/MCTA_Bay_01/Gamma/Gamma-Krantz%2C%20Jim.pdf)
+4. [Delta](https://github.com/jimkrantz/Stages/blob/92218a75b2a311e76e471b195ae5472c2ca6a0d5/MCTA/MCTA_Bay_01/Delta/Delta-Krantz%2C%20Jim.pdf)
+5. [Epsilon](https://github.com/jimkrantz/Stages/blob/92218a75b2a311e76e471b195ae5472c2ca6a0d5/MCTA/MCTA_Bay_01/Epsilon/Epsilon-Krantz%2C%20Jim.pdf)
+6. [Zeta](https://github.com/jimkrantz/Stages/blob/92218a75b2a311e76e471b195ae5472c2ca6a0d5/MCTA/MCTA_Bay_01/Zeta/Zeta-Krantz%2C%20Jim.pdf)
 
 ## Instructions to use this repository
 
