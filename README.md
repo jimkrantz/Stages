@@ -20,6 +20,7 @@ To clone this repository. `cd` into some directory, and type
 git clone https://github.com/jimkrantz/Stages.git
 ```
 
+
 ## Stage Designs
 
 - The 3D stage designs are saved in `.stg` format, compatible with Practisim Designer.
