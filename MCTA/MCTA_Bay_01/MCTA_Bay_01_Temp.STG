@@ -1,7 +1,7 @@
 {
 	"stageName": "Alpha",
 	"stageAuthor": "Krantz, Jim",
-	"stageLastUpdate": "2023.10.04-16.46.48",
+	"stageLastUpdate": "2023.10.06-19.23.54",
 	"propList": [
 		{
 			"propName": "tree-pine",
@@ -1337,10 +1337,10 @@
 			"customAdImage": "",
 			"customColor":
 			{
-				"R": 0,
-				"G": 0,
-				"B": 0,
-				"A": 0
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
 			},
 			"waypointNumber": 0,
 			"waypointDelayDuration": 2,
@@ -1399,10 +1399,10 @@
 			"customAdImage": "",
 			"customColor":
 			{
-				"R": 0,
-				"G": 0,
-				"B": 0,
-				"A": 0
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
 			},
 			"waypointNumber": 0,
 			"waypointDelayDuration": 2,
@@ -1461,10 +1461,10 @@
 			"customAdImage": "",
 			"customColor":
 			{
-				"R": 0,
-				"G": 0,
-				"B": 0,
-				"A": 0
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
 			},
 			"waypointNumber": 0,
 			"waypointDelayDuration": 2,
@@ -1499,8 +1499,8 @@
 				{
 					"X": 0,
 					"Y": -0,
-					"Z": 0.33437973260879517,
-					"W": 0.94243842363357544
+					"Z": 0.33437952399253845,
+					"W": 0.94243848323822021
 				},
 				"Translation":
 				{
@@ -1709,10 +1709,10 @@
 			"customAdImage": "",
 			"customColor":
 			{
-				"R": 0,
-				"G": 0,
-				"B": 0,
-				"A": 0
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
 			},
 			"waypointNumber": 0,
 			"waypointDelayDuration": 2,
@@ -1957,10 +1957,10 @@
 			"customAdImage": "",
 			"customColor":
 			{
-				"R": 0,
-				"G": 0,
-				"B": 0,
-				"A": 0
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
 			},
 			"waypointNumber": 0,
 			"waypointDelayDuration": 2,
@@ -2019,10 +2019,10 @@
 			"customAdImage": "",
 			"customColor":
 			{
-				"R": 0,
-				"G": 0,
-				"B": 0,
-				"A": 0
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
 			},
 			"waypointNumber": 0,
 			"waypointDelayDuration": 2,
@@ -2556,7 +2556,7 @@
 	"numRounds": 20,
 	"scoringType": 0,
 	"paperType": 1,
-	"courseType": 0,
+	"courseType": 1,
 	"bayType": 0,
 	"skyRotation": 0,
 	"skyType": 0,
@@ -2767,17 +2767,17 @@
 	"matchName": "",
 	"matchDate": "",
 	"isTopView": false,
-	"fileVersion": "1.0.27",
+	"fileVersion": "1.0.28",
 	"printLayoutPage": false,
 	"customImageForLayout": true,
 	"customImagePortrait": true,
 	"printBuildList": true,
 	"dynamicWeatherSettings":
 	{
-		"timeOfDay": 1000,
+		"timeOfDay": 1003.7380981445312,
 		"animateSky": true,
-		"dayCycle": 30,
-		"nightCycle": 15,
+		"dayCycle": 1440,
+		"nightCycle": 0,
 		"sunAngle": 270,
 		"moonAngle": 30,
 		"showLightShafts": true,
