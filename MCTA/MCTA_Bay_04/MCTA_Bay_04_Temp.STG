@@ -1,0 +1,271 @@
+{
+	"stageName": "<some cool name>",
+	"stageAuthor": "<your name>",
+	"stageLastUpdate": "2024.04.02-08.54.32",
+	"propList": [],
+	"stageBrief": "Welcome to stage <stage-name>. My name is <designer-name> and I am the CRO for this stage.\r\n\r\n<stage-name> is a <num-rounds> round, <num-points> point <scoring-type> <stage-size> course. There are <num-paper> <metric/classic> targets and <num-steel> steel. The start signal is audible.\r\n\r\nThe start position is standing anywhere in the shooting area, facing down range with wrists below belt. Handgun is loaded and holstered.\r\nPCC start position is standing anywhere in the shooting area, facing down range, stock on belt, muzzle pointed down range, loaded carbine held in both hands with safety on.\r\n\r\nOn the audible start signal, engage all targets from within the shooting area. Best two hits on paper and steel must fall to score.",
+	"buildInstructions": "<Put any build instructions here for the build crew>",
+	"numPaper": 0,
+	"numSteel": 0,
+	"numNoshoots": 0,
+	"numPoints": 0,
+	"numPerPaper": 2,
+	"numRounds": 0,
+	"scoringType": 0,
+	"paperType": 0,
+	"courseType": 0,
+	"bayType": 0,
+	"skyRotation": 0,
+	"skyType": 0,
+	"startPosition": "The start position is standing anywhere in the shooting area, facing down range with wrists below belt. Handgun is loaded and holstered. PCC start position is stock on belt, muzzle pointing downrange",
+	"procedure": "On the audible start signal, engage all targets from within the shooting area.",
+	"customCameraTransform":
+	{
+		"Rotation":
+		{
+			"X": 0,
+			"Y": 0,
+			"Z": 0,
+			"W": 1
+		},
+		"Translation":
+		{
+			"X": 0,
+			"Y": 0,
+			"Z": 0
+		},
+		"Scale3D":
+		{
+			"X": 1,
+			"Y": 1,
+			"Z": 1
+		}
+	},
+	"customCameraFOV": 5000,
+	"stageShape":
+	{
+		"presetName": "MCTA_Bay_01",
+		"arrayVector2D": [
+			{
+				"X": 1,
+				"Y": 1
+			},
+			{
+				"X": 19.883331298828125,
+				"Y": 1
+			},
+			{
+				"X": 38.76666259765625,
+				"Y": 1
+			},
+			{
+				"X": 57.650009155273438,
+				"Y": 1
+			},
+			{
+				"X": 76.533340454101562,
+				"Y": 1
+			},
+			{
+				"X": 95.416671752929688,
+				"Y": 1
+			},
+			{
+				"X": 114.30000305175781,
+				"Y": 1
+			},
+			{
+				"X": 114.30000305175781,
+				"Y": 43.916656494140625
+			},
+			{
+				"X": 114.30000305175781,
+				"Y": 86.833343505859375
+			},
+			{
+				"X": 114.30000305175781,
+				"Y": 129.75
+			},
+			{
+				"X": 114.30000305175781,
+				"Y": 172.66668701171875
+			},
+			{
+				"X": 114.30000305175781,
+				"Y": 215.58334350585938
+			},
+			{
+				"X": 114.30000305175781,
+				"Y": 258.5
+			},
+			{
+				"X": 95.416671752929688,
+				"Y": 258.5
+			},
+			{
+				"X": 76.533340454101562,
+				"Y": 258.5
+			},
+			{
+				"X": 57.650009155273438,
+				"Y": 258.5
+			},
+			{
+				"X": 38.76666259765625,
+				"Y": 258.5
+			},
+			{
+				"X": 19.883331298828125,
+				"Y": 258.5
+			},
+			{
+				"X": 1,
+				"Y": 258.5
+			},
+			{
+				"X": 1,
+				"Y": 215.58334350585938
+			},
+			{
+				"X": 1,
+				"Y": 172.66668701171875
+			},
+			{
+				"X": 1,
+				"Y": 129.75
+			},
+			{
+				"X": 1,
+				"Y": 86.833343505859375
+			},
+			{
+				"X": 1,
+				"Y": 43.916656494140625
+			},
+			{
+				"X": 1,
+				"Y": 1
+			}
+		],
+		"wallTexture": 17,
+		"groundTexture": "SandySoil",
+		"showHideFrontWalls": false,
+		"width": 11,
+		"height": 25
+	},
+	"upvotes": 0,
+	"downvotes": 0,
+	"downloads": 0,
+	"account": "j_krantz@outlook.com",
+	"stageKey": "",
+	"upvotesList": [],
+	"downvotesList": [],
+	"scannedBayName": "",
+	"customImages":
+	{
+		"uspsaLogoMain": "",
+		"nroiLogo": "",
+		"ipscLogo": "",
+		"uspsaLogoSecond": "",
+		"idpaLogoOne": "",
+		"idpaLogoTwo": "",
+		"ismocLogoOne": "",
+		"ismocLogoTwo": "",
+		"ismocLogoCenter": "",
+		"customLayoutImage": "",
+		"customBottomBarImage": "",
+		"genericLogo": "",
+		"pcslLogoMain": "",
+		"pcslLogoPage2-01": "",
+		"pcslLogoPage2-02": ""
+	},
+	"startStop": "Audible - Last Shot",
+	"muzzleSafe": "180-degree plane",
+	"distances": "x yards",
+	"concealment": 0,
+	"cameraSelection": 0,
+	"templateSelection": 0,
+	"celShadingSelection": 0,
+	"simpleBGSelection": 0,
+	"userCameraList": [
+		{
+			"camLocation":
+			{
+				"Rotation":
+				{
+					"X": 0.28759050369262695,
+					"Y": 0.28762203454971313,
+					"Z": -0.64594578742980957,
+					"W": 0.64600259065628052
+				},
+				"Translation":
+				{
+					"X": -0.0040283203125,
+					"Y": 350.53759765625,
+					"Z": 462.99951171875
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"camFOV": 90,
+			"camName": "Default",
+			"camPerspective": "Perspective",
+			"camSequenceNo": 0,
+			"camCelShade": false,
+			"camSimplify": false,
+			"camTop2DView": false,
+			"camSizeX": 1920,
+			"camSizeY": 1080,
+			"camTextFaceCamera": false,
+			"camFilter": "None",
+			"camNotes": ""
+		}
+	],
+	"playbackSpeed": 0,
+	"pauseDuration": 0,
+	"matchName": "",
+	"matchDate": "",
+	"isTopView": false,
+	"fileVersion": "1.0.46",
+	"printLayoutPage": false,
+	"customImageForLayout": false,
+	"customImagePortrait": false,
+	"printBuildList": false,
+	"dynamicWeatherSettings":
+	{
+		"timeOfDay": 1000,
+		"animateSky": false,
+		"dayCycle": 30,
+		"nightCycle": 15,
+		"sunAngle": 270,
+		"moonAngle": 30,
+		"showLightShafts": true,
+		"showLensFlare": true,
+		"dynamicWeatherSelection": 1,
+		"enableShadows": true,
+		"indoorSettings": "No"
+	},
+	"osType": "Windows",
+	"printMoreViews": false,
+	"moreViewsCameraArray": [
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		""
+	],
+	"readyCondition": "",
+	"timeStart": "Audible",
+	"useCustomImageBottomBar": false,
+	"thumbnail": false,
+	"pcsl-division": "2-Gun",
+	"pcsl-partime": 0,
+	"override-hitcount": ""
+}
