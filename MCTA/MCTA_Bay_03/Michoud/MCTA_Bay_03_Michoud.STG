@@ -1,8 +1,138 @@
 {
 	"stageName": "Michoud",
 	"stageAuthor": "Krantz, Jim",
-	"stageLastUpdate": "2024.04.11-10.30.39",
+	"stageLastUpdate": "2024.04.16-12.40.34",
 	"propList": [
+		{
+			"propName": "round-steel-stand",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0,
+					"W": 1
+				},
+				"Translation":
+				{
+					"X": -1056.637939453125,
+					"Y": -1171.7354736328125,
+					"Z": -54.910232543945312
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 27,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": -58,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 1,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "PL1",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true
+		},
+		{
+			"propName": "ipsc-mini-popper",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": -0,
+					"Y": 0,
+					"Z": -0.18760450184345245,
+					"W": 0.98224467039108276
+				},
+				"Translation":
+				{
+					"X": -1237.4664306640625,
+					"Y": -708.5357666015625,
+					"Z": 0.0010986328125
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 25,
+			"activateIDs": [ 44, 32 ],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 1,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "IMP1",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true
+		},
 		{
 			"propName": "barrel-plastic",
 			"propTransform":
@@ -199,21 +329,21 @@
 			"isShowTargetText": true
 		},
 		{
-			"propName": "round-steel-stand",
+			"propName": "barrel-plastic",
 			"propTransform":
 			{
 				"Rotation":
 				{
 					"X": 0,
-					"Y": 0,
+					"Y": -0,
 					"Z": 0,
 					"W": 1
 				},
 				"Translation":
 				{
-					"X": -1056.637939453125,
-					"Y": -1171.7354736328125,
-					"Z": -54.910232543945312
+					"X": -702.8787841796875,
+					"Y": -242.16064453125,
+					"Z": 0.0011138916015625
 				},
 				"Scale3D":
 				{
@@ -222,27 +352,27 @@
 					"Z": 1
 				}
 			},
-			"uniqueID": 27,
+			"uniqueID": 54,
 			"activateIDs": [],
 			"groupID": [],
-			"zOffset": -58,
+			"zOffset": 0,
 			"customAdImageFilename": "",
 			"customAdImage": "",
 			"customColor":
 			{
-				"R": 0,
-				"G": 0,
-				"B": 1,
+				"R": 0.049706999212503433,
+				"G": 0.201555997133255,
+				"B": 0.80695199966430664,
 				"A": 1
 			},
 			"waypointNumber": 0,
 			"waypointDelayDuration": 2,
 			"waypointStance": "walk",
-			"width": 1,
-			"height": 1,
-			"depth": 1,
+			"width": 0.36000001430511475,
+			"height": 0.36000001430511475,
+			"depth": 0.36000001430511475,
 			"isLocked": false,
-			"customText": "PL1",
+			"customText": "",
 			"customPropDetails":
 			{
 				"customPropName": "",
@@ -264,20 +394,20 @@
 			"isShowTargetText": true
 		},
 		{
-			"propName": "ipsc-mini-popper",
+			"propName": "barrel-plastic",
 			"propTransform":
 			{
 				"Rotation":
 				{
-					"X": -0,
-					"Y": 0,
-					"Z": -0.18786713480949402,
-					"W": 0.98219442367553711
+					"X": 0,
+					"Y": -0,
+					"Z": 0,
+					"W": 1
 				},
 				"Translation":
 				{
-					"X": -1237.4664306640625,
-					"Y": -708.5357666015625,
+					"X": -1108.38232421875,
+					"Y": 114.72810363769531,
 					"Z": 0.0010986328125
 				},
 				"Scale3D":
@@ -287,27 +417,27 @@
 					"Z": 1
 				}
 			},
-			"uniqueID": 25,
-			"activateIDs": [ 44, 32 ],
+			"uniqueID": 55,
+			"activateIDs": [],
 			"groupID": [],
 			"zOffset": 0,
 			"customAdImageFilename": "",
 			"customAdImage": "",
 			"customColor":
 			{
-				"R": 0,
-				"G": 0,
-				"B": 1,
+				"R": 0.049706999212503433,
+				"G": 0.201555997133255,
+				"B": 0.80695199966430664,
 				"A": 1
 			},
 			"waypointNumber": 0,
 			"waypointDelayDuration": 2,
 			"waypointStance": "walk",
-			"width": 1,
-			"height": 1,
-			"depth": 1,
+			"width": 0.36000001430511475,
+			"height": 0.36000001430511475,
+			"depth": 0.36000001430511475,
 			"isLocked": false,
-			"customText": "IMP1",
+			"customText": "",
 			"customPropDetails":
 			{
 				"customPropName": "",
@@ -401,71 +531,6 @@
 				{
 					"X": -0,
 					"Y": 0,
-					"Z": -0.43837043642997742,
-					"W": 0.89879441261291504
-				},
-				"Translation":
-				{
-					"X": -736.3486328125,
-					"Y": -208.39382934570312,
-					"Z": 0.0010986328125
-				},
-				"Scale3D":
-				{
-					"X": 1,
-					"Y": 1,
-					"Z": 1
-				}
-			},
-			"uniqueID": 5,
-			"activateIDs": [],
-			"groupID": [],
-			"zOffset": 0,
-			"customAdImageFilename": "",
-			"customAdImage": "",
-			"customColor":
-			{
-				"R": 1,
-				"G": 1,
-				"B": 1,
-				"A": 1
-			},
-			"waypointNumber": 0,
-			"waypointDelayDuration": 2,
-			"waypointStance": "walk",
-			"width": 0.85000002384185791,
-			"height": 0.89999997615814209,
-			"depth": 1,
-			"isLocked": false,
-			"customText": "",
-			"customPropDetails":
-			{
-				"customPropName": "",
-				"customPropGLBFilePath": "",
-				"customPropAuthor": ""
-			},
-			"sightlinePrecision": 0,
-			"customTextColor":
-			{
-				"R": 0.019999999552965164,
-				"G": 0.019999999552965164,
-				"B": 0.019999999552965164,
-				"A": 1
-			},
-			"swingerAngle": 90,
-			"portOpen": false,
-			"isRuler": false,
-			"fontSelection": 0,
-			"isShowTargetText": true
-		},
-		{
-			"propName": "wall-med-brown",
-			"propTransform":
-			{
-				"Rotation":
-				{
-					"X": -0,
-					"Y": 0,
 					"Z": -0.70710563659667969,
 					"W": 0.70710790157318115
 				},
@@ -483,71 +548,6 @@
 				}
 			},
 			"uniqueID": 3,
-			"activateIDs": [],
-			"groupID": [],
-			"zOffset": 0,
-			"customAdImageFilename": "",
-			"customAdImage": "",
-			"customColor":
-			{
-				"R": 1,
-				"G": 1,
-				"B": 1,
-				"A": 1
-			},
-			"waypointNumber": 0,
-			"waypointDelayDuration": 2,
-			"waypointStance": "walk",
-			"width": 0.85000002384185791,
-			"height": 0.89999997615814209,
-			"depth": 1,
-			"isLocked": false,
-			"customText": "",
-			"customPropDetails":
-			{
-				"customPropName": "",
-				"customPropGLBFilePath": "",
-				"customPropAuthor": ""
-			},
-			"sightlinePrecision": 0,
-			"customTextColor":
-			{
-				"R": 0.019999999552965164,
-				"G": 0.019999999552965164,
-				"B": 0.019999999552965164,
-				"A": 1
-			},
-			"swingerAngle": 90,
-			"portOpen": false,
-			"isRuler": false,
-			"fontSelection": 0,
-			"isShowTargetText": true
-		},
-		{
-			"propName": "wall-med-brown",
-			"propTransform":
-			{
-				"Rotation":
-				{
-					"X": -0,
-					"Y": 0,
-					"Z": -0.81915122270584106,
-					"W": 0.5735776424407959
-				},
-				"Translation":
-				{
-					"X": -774.09039306640625,
-					"Y": 15.312728881835938,
-					"Z": 0.00103759765625
-				},
-				"Scale3D":
-				{
-					"X": 1,
-					"Y": 1,
-					"Z": 1
-				}
-			},
-			"uniqueID": 4,
 			"activateIDs": [],
 			"groupID": [],
 			"zOffset": 0,
@@ -784,6 +784,71 @@
 			"isShowTargetText": true
 		},
 		{
+			"propName": "ipsc-swinger-right",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0,
+					"W": 1
+				},
+				"Translation":
+				{
+					"X": -850.51751708984375,
+					"Y": -737.06787109375,
+					"Z": 0.0010986328125
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 32,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0.81484699249267578,
+				"G": 0.42326799035072327,
+				"B": 0.149959996342659,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "IT1",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": -90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true
+		},
+		{
 			"propName": "faultline-adjustable",
 			"propTransform":
 			{
@@ -791,8 +856,8 @@
 				{
 					"X": -0,
 					"Y": 0,
-					"Z": -0.84442597627639771,
-					"W": 0.53567224740982056
+					"Z": -0.84442585706710815,
+					"W": 0.53567242622375488
 				},
 				"Translation":
 				{
@@ -921,8 +986,8 @@
 				{
 					"X": 0,
 					"Y": -0,
-					"Z": 0.92164379358291626,
-					"W": 0.38803702592849731
+					"Z": 0.92164367437362671,
+					"W": 0.38803720474243164
 				},
 				"Translation":
 				{
@@ -1376,8 +1441,8 @@
 				{
 					"X": 0,
 					"Y": -0,
-					"Z": 0.36237108707427979,
-					"W": 0.93203389644622803
+					"Z": 0.36237123608589172,
+					"W": 0.93203383684158325
 				},
 				"Translation":
 				{
@@ -1441,8 +1506,8 @@
 				{
 					"X": 0,
 					"Y": -0,
-					"Z": 0.59004867076873779,
-					"W": 0.80736768245697021
+					"Z": 0.59004855155944824,
+					"W": 0.80736780166625977
 				},
 				"Translation":
 				{
@@ -1506,8 +1571,8 @@
 				{
 					"X": 0,
 					"Y": -0,
-					"Z": 0.70419365167617798,
-					"W": 0.71000790596008301
+					"Z": 0.7041935920715332,
+					"W": 0.71000802516937256
 				},
 				"Translation":
 				{
@@ -1571,8 +1636,8 @@
 				{
 					"X": 0,
 					"Y": -0,
-					"Z": 0.88096356391906738,
-					"W": 0.47318410873413086
+					"Z": 0.88096368312835693,
+					"W": 0.47318387031555176
 				},
 				"Translation":
 				{
@@ -1701,8 +1766,8 @@
 				{
 					"X": -0,
 					"Y": 0,
-					"Z": -0.54727858304977417,
-					"W": 0.83695048093795776
+					"Z": -0.6024775505065918,
+					"W": 0.79813581705093384
 				},
 				"Translation":
 				{
@@ -1712,7 +1777,7 @@
 				},
 				"Scale3D":
 				{
-					"X": 20.965278625488281,
+					"X": 20.660667419433594,
 					"Y": 1,
 					"Z": 1
 				}
@@ -1766,8 +1831,8 @@
 				{
 					"X": -0,
 					"Y": 0,
-					"Z": -0.49550119042396545,
-					"W": 0.8686072826385498
+					"Z": -0.52585881948471069,
+					"W": 0.85057187080383301
 				},
 				"Translation":
 				{
@@ -1777,7 +1842,7 @@
 				},
 				"Scale3D":
 				{
-					"X": 32.763095855712891,
+					"X": 31.162088394165039,
 					"Y": 1,
 					"Z": 1
 				}
@@ -1831,8 +1896,8 @@
 				{
 					"X": 0,
 					"Y": -0,
-					"Z": 0.56430661678314209,
-					"W": 0.82556527853012085
+					"Z": 0.56430667638778687,
+					"W": 0.82556521892547607
 				},
 				"Translation":
 				{
@@ -1896,8 +1961,8 @@
 				{
 					"X": 0,
 					"Y": -0,
-					"Z": 0.54641145467758179,
-					"W": 0.8375169038772583
+					"Z": 0.54641163349151611,
+					"W": 0.83751678466796875
 				},
 				"Translation":
 				{
@@ -1954,71 +2019,6 @@
 			"isShowTargetText": true
 		},
 		{
-			"propName": "ipsc-swinger-right",
-			"propTransform":
-			{
-				"Rotation":
-				{
-					"X": 0,
-					"Y": 0,
-					"Z": 0,
-					"W": 1
-				},
-				"Translation":
-				{
-					"X": -850.51751708984375,
-					"Y": -737.06787109375,
-					"Z": 0.0010986328125
-				},
-				"Scale3D":
-				{
-					"X": 1,
-					"Y": 1,
-					"Z": 1
-				}
-			},
-			"uniqueID": 32,
-			"activateIDs": [],
-			"groupID": [],
-			"zOffset": 0,
-			"customAdImageFilename": "",
-			"customAdImage": "",
-			"customColor":
-			{
-				"R": 0.81484699249267578,
-				"G": 0.42326799035072327,
-				"B": 0.149959996342659,
-				"A": 1
-			},
-			"waypointNumber": 0,
-			"waypointDelayDuration": 2,
-			"waypointStance": "walk",
-			"width": 1,
-			"height": 1,
-			"depth": 1,
-			"isLocked": false,
-			"customText": "IT1",
-			"customPropDetails":
-			{
-				"customPropName": "",
-				"customPropGLBFilePath": "",
-				"customPropAuthor": ""
-			},
-			"sightlinePrecision": 0,
-			"customTextColor":
-			{
-				"R": 0.019999999552965164,
-				"G": 0.019999999552965164,
-				"B": 0.019999999552965164,
-				"A": 1
-			},
-			"swingerAngle": -90,
-			"portOpen": false,
-			"isRuler": false,
-			"fontSelection": 0,
-			"isShowTargetText": true
-		},
-		{
 			"propName": "ipsc-full-target-short",
 			"propTransform":
 			{
@@ -2031,9 +2031,9 @@
 				},
 				"Translation":
 				{
-					"X": -559.806640625,
-					"Y": 227.52728271484375,
-					"Z": 0.0010986328125
+					"X": -588.40386962890625,
+					"Y": 218.84405517578125,
+					"Z": 0.0010833740234375
 				},
 				"Scale3D":
 				{
@@ -2091,14 +2091,14 @@
 				{
 					"X": -0,
 					"Y": 0,
-					"Z": -0.38494393229484558,
-					"W": 0.9229399561882019
+					"Z": -0.38519364595413208,
+					"W": 0.92283576726913452
 				},
 				"Translation":
 				{
-					"X": -1269.3140869140625,
-					"Y": -91.70941162109375,
-					"Z": 0.0010986328125
+					"X": -1260.80224609375,
+					"Y": -90.494537353515625,
+					"Z": 3.0897674560546875
 				},
 				"Scale3D":
 				{
@@ -2156,8 +2156,8 @@
 				{
 					"X": 0,
 					"Y": -0,
-					"Z": 0.31835842132568359,
-					"W": 0.94797039031982422
+					"Z": 0.3180985152721405,
+					"W": 0.94805765151977539
 				},
 				"Translation":
 				{
@@ -2351,13 +2351,13 @@
 				{
 					"X": 0,
 					"Y": -0,
-					"Z": 0.16017410159111023,
-					"W": 0.98708879947662354
+					"Z": 0.066077664494514465,
+					"W": 0.99781447649002075
 				},
 				"Translation":
 				{
-					"X": -632.24371337890625,
-					"Y": 199.92626953125,
+					"X": -669.6273193359375,
+					"Y": 187.32925415039062,
 					"Z": 0.0010986328125
 				},
 				"Scale3D":
@@ -2414,10 +2414,10 @@
 			{
 				"Rotation":
 				{
-					"X": -1.3157086975468246e-08,
-					"Y": -4.4185699543675128e-09,
-					"Z": 0.31835871934890747,
-					"W": 0.94797033071517944
+					"X": -1.3156672196146246e-08,
+					"Y": -4.4144163879877851e-09,
+					"Z": 0.31809872388839722,
+					"W": 0.94805759191513062
 				},
 				"Translation":
 				{
@@ -2475,7 +2475,7 @@
 		}
 	],
 	"stageBrief": "The start position is standing anywhere in the shooting area, facing down range with wrists below belt. Handgun is loaded and holstered.\r\nPCC start position is standing anywhere in the shooting area, facing down range, stock on belt, muzzle pointed down range, loaded carbine held in both hands with safety on.\r\n\r\nOn the audible start signal, engage all targets from within the shooting area. Best two hits on paper and steel must fall to score.",
-	"buildInstructions": "The bay is 9 meters wide and 25 meters deep. Place the front fault line 14 meters from the berm and the mini plate ( PL ) 1 meter from from the berm. ",
+	"buildInstructions": "Each grid square is 1 meter or 3 FEET. The bay is 9 meters wide and 25 meters deep. Place the front fault line 14 meters from the berm and the mini plate ( PL ) 1 meter from from the berm. ",
 	"numPaper": 7,
 	"numSteel": 2,
 	"numNoshoots": 1,
@@ -2512,7 +2512,7 @@
 			"Z": 1
 		}
 	},
-	"customCameraFOV": 2330.199951171875,
+	"customCameraFOV": 2190.8125,
 	"stageShape":
 	{
 		"presetName": "MCTA_Bay_01",
@@ -2906,8 +2906,8 @@
 			"camCelShade": false,
 			"camSimplify": false,
 			"camTop2DView": false,
-			"camSizeX": 0,
-			"camSizeY": 0,
+			"camSizeX": 1920,
+			"camSizeY": 1080,
 			"camTextFaceCamera": false,
 			"camFilter": "None",
 			"camNotes": ""
