@@ -1,10 +1,10 @@
 {
-	"stageName": "GMC",
+	"stageName": "Orbit",
 	"stageAuthor": "Krantz, Jim",
-	"stageLastUpdate": "2024.05.08-12.14.28",
+	"stageLastUpdate": "2024.05.08-14.03.12",
 	"propList": [
 		{
-			"propName": "tires-stack",
+			"propName": "barrel-plastic",
 			"propTransform":
 			{
 				"Rotation":
@@ -16,9 +16,9 @@
 				},
 				"Translation":
 				{
-					"X": 1722.94140625,
-					"Y": -1086.9896240234375,
-					"Z": 18.431976318359375
+					"X": -884.0303955078125,
+					"Y": 141.80668640136719,
+					"Z": 0.0010833740234375
 				},
 				"Scale3D":
 				{
@@ -27,7 +27,7 @@
 					"Z": 1
 				}
 			},
-			"uniqueID": 229,
+			"uniqueID": 112,
 			"activateIDs": [],
 			"groupID": [],
 			"zOffset": 0,
@@ -35,17 +35,17 @@
 			"customAdImage": "",
 			"customColor":
 			{
-				"R": 1,
-				"G": 1,
-				"B": 1,
+				"R": 0.049706999212503433,
+				"G": 0.201555997133255,
+				"B": 0.80695199966430664,
 				"A": 1
 			},
 			"waypointNumber": 0,
 			"waypointDelayDuration": 2,
 			"waypointStance": "walk",
-			"width": 1,
-			"height": 1,
-			"depth": 1,
+			"width": 0.36000001430511475,
+			"height": 0.36000001430511475,
+			"depth": 0.36000001430511475,
 			"isLocked": false,
 			"customText": "",
 			"customPropDetails":
@@ -75,7 +75,7 @@
 			}
 		},
 		{
-			"propName": "tires-stack",
+			"propName": "barrel-plastic",
 			"propTransform":
 			{
 				"Rotation":
@@ -87,9 +87,9 @@
 				},
 				"Translation":
 				{
-					"X": 1684.03173828125,
-					"Y": -844.42498779296875,
-					"Z": 77.63671875
+					"X": -389.266845703125,
+					"Y": 590.19573974609375,
+					"Z": 0.0011138916015625
 				},
 				"Scale3D":
 				{
@@ -98,7 +98,7 @@
 					"Z": 1
 				}
 			},
-			"uniqueID": 230,
+			"uniqueID": 97,
 			"activateIDs": [],
 			"groupID": [],
 			"zOffset": 0,
@@ -106,17 +106,17 @@
 			"customAdImage": "",
 			"customColor":
 			{
-				"R": 1,
-				"G": 1,
-				"B": 1,
+				"R": 0.049706999212503433,
+				"G": 0.201555997133255,
+				"B": 0.80695199966430664,
 				"A": 1
 			},
 			"waypointNumber": 0,
 			"waypointDelayDuration": 2,
 			"waypointStance": "walk",
-			"width": 1,
-			"height": 1,
-			"depth": 1,
+			"width": 0.36000001430511475,
+			"height": 0.36000001430511475,
+			"depth": 0.36000001430511475,
 			"isLocked": false,
 			"customText": "",
 			"customPropDetails":
@@ -146,7 +146,7 @@
 			}
 		},
 		{
-			"propName": "tires-stack",
+			"propName": "barrel-plastic",
 			"propTransform":
 			{
 				"Rotation":
@@ -158,9 +158,9 @@
 				},
 				"Translation":
 				{
-					"X": 1763.875244140625,
-					"Y": -721.02899169921875,
-					"Z": 0.1000823974609375
+					"X": -422.65875244140625,
+					"Y": 453.1524658203125,
+					"Z": 0.0010986328125
 				},
 				"Scale3D":
 				{
@@ -169,7 +169,7 @@
 					"Z": 1
 				}
 			},
-			"uniqueID": 231,
+			"uniqueID": 98,
 			"activateIDs": [],
 			"groupID": [],
 			"zOffset": 0,
@@ -177,17 +177,17 @@
 			"customAdImage": "",
 			"customColor":
 			{
-				"R": 1,
-				"G": 1,
-				"B": 1,
+				"R": 0.049706999212503433,
+				"G": 0.201555997133255,
+				"B": 0.80695199966430664,
 				"A": 1
 			},
 			"waypointNumber": 0,
 			"waypointDelayDuration": 2,
 			"waypointStance": "walk",
-			"width": 1,
-			"height": 1,
-			"depth": 1,
+			"width": 0.36000001430511475,
+			"height": 0.36000001430511475,
+			"depth": 0.36000001430511475,
 			"isLocked": false,
 			"customText": "",
 			"customPropDetails":
@@ -217,7 +217,7 @@
 			}
 		},
 		{
-			"propName": "tires-stack",
+			"propName": "barrel-plastic",
 			"propTransform":
 			{
 				"Rotation":
@@ -229,9 +229,9 @@
 				},
 				"Translation":
 				{
-					"X": 1727.8438720703125,
-					"Y": -659.11260986328125,
-					"Z": 0.10009765625
+					"X": -1179.816650390625,
+					"Y": 89.412727355957031,
+					"Z": 0.0010986328125
 				},
 				"Scale3D":
 				{
@@ -240,7 +240,7 @@
 					"Z": 1
 				}
 			},
-			"uniqueID": 232,
+			"uniqueID": 110,
 			"activateIDs": [],
 			"groupID": [],
 			"zOffset": 0,
@@ -248,17 +248,17 @@
 			"customAdImage": "",
 			"customColor":
 			{
-				"R": 1,
-				"G": 1,
-				"B": 1,
+				"R": 0.049706999212503433,
+				"G": 0.201555997133255,
+				"B": 0.80695199966430664,
 				"A": 1
 			},
 			"waypointNumber": 0,
 			"waypointDelayDuration": 2,
 			"waypointStance": "walk",
-			"width": 1,
-			"height": 1,
-			"depth": 1,
+			"width": 0.36000001430511475,
+			"height": 0.36000001430511475,
+			"depth": 0.36000001430511475,
 			"isLocked": false,
 			"customText": "",
 			"customPropDetails":
@@ -288,7 +288,7 @@
 			}
 		},
 		{
-			"propName": "tires-stack",
+			"propName": "barrel-plastic",
 			"propTransform":
 			{
 				"Rotation":
@@ -300,9 +300,9 @@
 				},
 				"Translation":
 				{
-					"X": 1758.114501953125,
-					"Y": -909.965087890625,
-					"Z": 39.344879150390625
+					"X": -1213.7220458984375,
+					"Y": -1032.96923828125,
+					"Z": 0.0010986328125
 				},
 				"Scale3D":
 				{
@@ -311,7 +311,7 @@
 					"Z": 1
 				}
 			},
-			"uniqueID": 233,
+			"uniqueID": 100,
 			"activateIDs": [],
 			"groupID": [],
 			"zOffset": 0,
@@ -319,17 +319,17 @@
 			"customAdImage": "",
 			"customColor":
 			{
-				"R": 1,
-				"G": 1,
-				"B": 1,
+				"R": 0.049706999212503433,
+				"G": 0.201555997133255,
+				"B": 0.80695199966430664,
 				"A": 1
 			},
 			"waypointNumber": 0,
 			"waypointDelayDuration": 2,
 			"waypointStance": "walk",
-			"width": 1,
-			"height": 1,
-			"depth": 1,
+			"width": 0.36000001430511475,
+			"height": 0.36000001430511475,
+			"depth": 0.36000001430511475,
 			"isLocked": false,
 			"customText": "",
 			"customPropDetails":
@@ -359,7 +359,7 @@
 			}
 		},
 		{
-			"propName": "tires-stack",
+			"propName": "barrel-plastic",
 			"propTransform":
 			{
 				"Rotation":
@@ -371,9 +371,9 @@
 				},
 				"Translation":
 				{
-					"X": 1737.7723388671875,
-					"Y": -1203.9814453125,
-					"Z": 0.10009765625
+					"X": -1282.2884521484375,
+					"Y": -1035.956787109375,
+					"Z": 0.0010833740234375
 				},
 				"Scale3D":
 				{
@@ -382,7 +382,7 @@
 					"Z": 1
 				}
 			},
-			"uniqueID": 234,
+			"uniqueID": 101,
 			"activateIDs": [],
 			"groupID": [],
 			"zOffset": 0,
@@ -390,17 +390,17 @@
 			"customAdImage": "",
 			"customColor":
 			{
-				"R": 1,
-				"G": 1,
-				"B": 1,
+				"R": 0.049706999212503433,
+				"G": 0.201555997133255,
+				"B": 0.80695199966430664,
 				"A": 1
 			},
 			"waypointNumber": 0,
 			"waypointDelayDuration": 2,
 			"waypointStance": "walk",
-			"width": 1,
-			"height": 1,
-			"depth": 1,
+			"width": 0.36000001430511475,
+			"height": 0.36000001430511475,
+			"depth": 0.36000001430511475,
 			"isLocked": false,
 			"customText": "",
 			"customPropDetails":
@@ -430,7 +430,7 @@
 			}
 		},
 		{
-			"propName": "tires-stack",
+			"propName": "barrel-plastic",
 			"propTransform":
 			{
 				"Rotation":
@@ -442,9 +442,9 @@
 				},
 				"Translation":
 				{
-					"X": 1715.980712890625,
-					"Y": -1305.5252685546875,
-					"Z": 0.1001129150390625
+					"X": -810.2354736328125,
+					"Y": 52.628265380859375,
+					"Z": 0.0010986328125
 				},
 				"Scale3D":
 				{
@@ -453,7 +453,7 @@
 					"Z": 1
 				}
 			},
-			"uniqueID": 235,
+			"uniqueID": 113,
 			"activateIDs": [],
 			"groupID": [],
 			"zOffset": 0,
@@ -461,17 +461,17 @@
 			"customAdImage": "",
 			"customColor":
 			{
-				"R": 1,
-				"G": 1,
-				"B": 1,
+				"R": 0.049706999212503433,
+				"G": 0.201555997133255,
+				"B": 0.80695199966430664,
 				"A": 1
 			},
 			"waypointNumber": 0,
 			"waypointDelayDuration": 2,
 			"waypointStance": "walk",
-			"width": 1,
-			"height": 1,
-			"depth": 1,
+			"width": 0.36000001430511475,
+			"height": 0.36000001430511475,
+			"depth": 0.36000001430511475,
 			"isLocked": false,
 			"customText": "",
 			"customPropDetails":
@@ -501,518 +501,21 @@
 			}
 		},
 		{
-			"propName": "tires-stack",
+			"propName": "ipsc-mini-popper",
 			"propTransform":
 			{
 				"Rotation":
 				{
 					"X": 0,
-					"Y": -0,
+					"Y": 0,
 					"Z": 0,
 					"W": 1
 				},
 				"Translation":
 				{
-					"X": 1739.40478515625,
-					"Y": -220.25485229492188,
-					"Z": 0.1001129150390625
-				},
-				"Scale3D":
-				{
-					"X": 1,
-					"Y": 1,
-					"Z": 1
-				}
-			},
-			"uniqueID": 244,
-			"activateIDs": [],
-			"groupID": [],
-			"zOffset": 0,
-			"customAdImageFilename": "",
-			"customAdImage": "",
-			"customColor":
-			{
-				"R": 1,
-				"G": 1,
-				"B": 1,
-				"A": 1
-			},
-			"waypointNumber": 0,
-			"waypointDelayDuration": 2,
-			"waypointStance": "walk",
-			"width": 1,
-			"height": 1,
-			"depth": 1,
-			"isLocked": false,
-			"customText": "",
-			"customPropDetails":
-			{
-				"customPropName": "",
-				"customPropGLBFilePath": "",
-				"customPropAuthor": ""
-			},
-			"sightlinePrecision": 0,
-			"customTextColor":
-			{
-				"R": 0.019999999552965164,
-				"G": 0.019999999552965164,
-				"B": 0.019999999552965164,
-				"A": 1
-			},
-			"swingerAngle": 90,
-			"portOpen": false,
-			"isRuler": false,
-			"fontSelection": 0,
-			"isShowTargetText": true,
-			"paperModifierRotation":
-			{
-				"X": 0,
-				"Y": 0,
-				"Z": 0
-			}
-		},
-		{
-			"propName": "tires-stack",
-			"propTransform":
-			{
-				"Rotation":
-				{
-					"X": 0,
-					"Y": -0,
-					"Z": 0,
-					"W": 1
-				},
-				"Translation":
-				{
-					"X": 1448.782958984375,
-					"Y": 307.16558837890625,
-					"Z": 0.100128173828125
-				},
-				"Scale3D":
-				{
-					"X": 1,
-					"Y": 1,
-					"Z": 1
-				}
-			},
-			"uniqueID": 245,
-			"activateIDs": [],
-			"groupID": [],
-			"zOffset": 0,
-			"customAdImageFilename": "",
-			"customAdImage": "",
-			"customColor":
-			{
-				"R": 1,
-				"G": 1,
-				"B": 1,
-				"A": 1
-			},
-			"waypointNumber": 0,
-			"waypointDelayDuration": 2,
-			"waypointStance": "walk",
-			"width": 1,
-			"height": 1,
-			"depth": 1,
-			"isLocked": false,
-			"customText": "",
-			"customPropDetails":
-			{
-				"customPropName": "",
-				"customPropGLBFilePath": "",
-				"customPropAuthor": ""
-			},
-			"sightlinePrecision": 0,
-			"customTextColor":
-			{
-				"R": 0.019999999552965164,
-				"G": 0.019999999552965164,
-				"B": 0.019999999552965164,
-				"A": 1
-			},
-			"swingerAngle": 90,
-			"portOpen": false,
-			"isRuler": false,
-			"fontSelection": 0,
-			"isShowTargetText": true,
-			"paperModifierRotation":
-			{
-				"X": 0,
-				"Y": 0,
-				"Z": 0
-			}
-		},
-		{
-			"propName": "tree-generic-03",
-			"propTransform":
-			{
-				"Rotation":
-				{
-					"X": 0,
-					"Y": -0,
-					"Z": 0,
-					"W": 1
-				},
-				"Translation":
-				{
-					"X": 1718.495849609375,
-					"Y": -1995.1173095703125,
-					"Z": 0.10009765625
-				},
-				"Scale3D":
-				{
-					"X": 1,
-					"Y": 1,
-					"Z": 1
-				}
-			},
-			"uniqueID": 269,
-			"activateIDs": [],
-			"groupID": [],
-			"zOffset": 0,
-			"customAdImageFilename": "",
-			"customAdImage": "",
-			"customColor":
-			{
-				"R": 1,
-				"G": 1,
-				"B": 1,
-				"A": 1
-			},
-			"waypointNumber": 0,
-			"waypointDelayDuration": 2,
-			"waypointStance": "walk",
-			"width": 0.20000000298023224,
-			"height": 0.20000000298023224,
-			"depth": 0.20000000298023224,
-			"isLocked": false,
-			"customText": "",
-			"customPropDetails":
-			{
-				"customPropName": "",
-				"customPropGLBFilePath": "",
-				"customPropAuthor": ""
-			},
-			"sightlinePrecision": 0,
-			"customTextColor":
-			{
-				"R": 0.019999999552965164,
-				"G": 0.019999999552965164,
-				"B": 0.019999999552965164,
-				"A": 1
-			},
-			"swingerAngle": 90,
-			"portOpen": false,
-			"isRuler": false,
-			"fontSelection": 0,
-			"isShowTargetText": true,
-			"paperModifierRotation":
-			{
-				"X": 0,
-				"Y": 0,
-				"Z": 0
-			}
-		},
-		{
-			"propName": "tree-generic-03",
-			"propTransform":
-			{
-				"Rotation":
-				{
-					"X": 0,
-					"Y": -0,
-					"Z": 0,
-					"W": 1
-				},
-				"Translation":
-				{
-					"X": 1746.2022705078125,
-					"Y": -1625.494873046875,
-					"Z": 0.0999755859375
-				},
-				"Scale3D":
-				{
-					"X": 1,
-					"Y": 1,
-					"Z": 1
-				}
-			},
-			"uniqueID": 268,
-			"activateIDs": [],
-			"groupID": [],
-			"zOffset": 0,
-			"customAdImageFilename": "",
-			"customAdImage": "",
-			"customColor":
-			{
-				"R": 1,
-				"G": 1,
-				"B": 1,
-				"A": 1
-			},
-			"waypointNumber": 0,
-			"waypointDelayDuration": 2,
-			"waypointStance": "walk",
-			"width": 0.20000000298023224,
-			"height": 0.20000000298023224,
-			"depth": 0.20000000298023224,
-			"isLocked": false,
-			"customText": "",
-			"customPropDetails":
-			{
-				"customPropName": "",
-				"customPropGLBFilePath": "",
-				"customPropAuthor": ""
-			},
-			"sightlinePrecision": 0,
-			"customTextColor":
-			{
-				"R": 0.019999999552965164,
-				"G": 0.019999999552965164,
-				"B": 0.019999999552965164,
-				"A": 1
-			},
-			"swingerAngle": 90,
-			"portOpen": false,
-			"isRuler": false,
-			"fontSelection": 0,
-			"isShowTargetText": true,
-			"paperModifierRotation":
-			{
-				"X": 0,
-				"Y": 0,
-				"Z": 0
-			}
-		},
-		{
-			"propName": "tree-generic-02",
-			"propTransform":
-			{
-				"Rotation":
-				{
-					"X": 0,
-					"Y": -0,
-					"Z": 0,
-					"W": 1
-				},
-				"Translation":
-				{
-					"X": 1578.780517578125,
-					"Y": -2121.14453125,
-					"Z": 0.099853515625
-				},
-				"Scale3D":
-				{
-					"X": 1,
-					"Y": 1,
-					"Z": 1
-				}
-			},
-			"uniqueID": 267,
-			"activateIDs": [],
-			"groupID": [],
-			"zOffset": 0,
-			"customAdImageFilename": "",
-			"customAdImage": "",
-			"customColor":
-			{
-				"R": 1,
-				"G": 1,
-				"B": 1,
-				"A": 1
-			},
-			"waypointNumber": 0,
-			"waypointDelayDuration": 2,
-			"waypointStance": "walk",
-			"width": 0.34999999403953552,
-			"height": 0.34999999403953552,
-			"depth": 0.34999999403953552,
-			"isLocked": false,
-			"customText": "",
-			"customPropDetails":
-			{
-				"customPropName": "",
-				"customPropGLBFilePath": "",
-				"customPropAuthor": ""
-			},
-			"sightlinePrecision": 0,
-			"customTextColor":
-			{
-				"R": 0.019999999552965164,
-				"G": 0.019999999552965164,
-				"B": 0.019999999552965164,
-				"A": 1
-			},
-			"swingerAngle": 90,
-			"portOpen": false,
-			"isRuler": false,
-			"fontSelection": 0,
-			"isShowTargetText": true,
-			"paperModifierRotation":
-			{
-				"X": 0,
-				"Y": 0,
-				"Z": 0
-			}
-		},
-		{
-			"propName": "barrel-red",
-			"propTransform":
-			{
-				"Rotation":
-				{
-					"X": 0,
-					"Y": -0,
-					"Z": 0,
-					"W": 1
-				},
-				"Translation":
-				{
-					"X": 1649.427001953125,
-					"Y": -75.269943237304688,
-					"Z": 0.1000823974609375
-				},
-				"Scale3D":
-				{
-					"X": 1,
-					"Y": 1,
-					"Z": 1
-				}
-			},
-			"uniqueID": 241,
-			"activateIDs": [],
-			"groupID": [],
-			"zOffset": 0,
-			"customAdImageFilename": "",
-			"customAdImage": "",
-			"customColor":
-			{
-				"R": 1,
-				"G": 1,
-				"B": 1,
-				"A": 1
-			},
-			"waypointNumber": 0,
-			"waypointDelayDuration": 2,
-			"waypointStance": "walk",
-			"width": 1,
-			"height": 1,
-			"depth": 1,
-			"isLocked": false,
-			"customText": "",
-			"customPropDetails":
-			{
-				"customPropName": "",
-				"customPropGLBFilePath": "",
-				"customPropAuthor": ""
-			},
-			"sightlinePrecision": 0,
-			"customTextColor":
-			{
-				"R": 0.019999999552965164,
-				"G": 0.019999999552965164,
-				"B": 0.019999999552965164,
-				"A": 1
-			},
-			"swingerAngle": 90,
-			"portOpen": false,
-			"isRuler": false,
-			"fontSelection": 0,
-			"isShowTargetText": true,
-			"paperModifierRotation":
-			{
-				"X": 0,
-				"Y": 0,
-				"Z": 0
-			}
-		},
-		{
-			"propName": "folding-table",
-			"propTransform":
-			{
-				"Rotation":
-				{
-					"X": 0,
-					"Y": -0,
-					"Z": 0.33430016040802002,
-					"W": 0.94246667623519897
-				},
-				"Translation":
-				{
-					"X": 1087.4268798828125,
-					"Y": 368.9967041015625,
-					"Z": 0.10009765625
-				},
-				"Scale3D":
-				{
-					"X": 1,
-					"Y": 1,
-					"Z": 1
-				}
-			},
-			"uniqueID": 63,
-			"activateIDs": [],
-			"groupID": [],
-			"zOffset": 0,
-			"customAdImageFilename": "",
-			"customAdImage": "",
-			"customColor":
-			{
-				"R": 1,
-				"G": 1,
-				"B": 1,
-				"A": 1
-			},
-			"waypointNumber": 0,
-			"waypointDelayDuration": 2,
-			"waypointStance": "walk",
-			"width": 0.30000001192092896,
-			"height": 0.30000001192092896,
-			"depth": 0.30000001192092896,
-			"isLocked": false,
-			"customText": "",
-			"customPropDetails":
-			{
-				"customPropName": "",
-				"customPropGLBFilePath": "",
-				"customPropAuthor": ""
-			},
-			"sightlinePrecision": 0,
-			"customTextColor":
-			{
-				"R": 0.019999999552965164,
-				"G": 0.019999999552965164,
-				"B": 0.019999999552965164,
-				"A": 1
-			},
-			"swingerAngle": 90,
-			"portOpen": false,
-			"isRuler": false,
-			"fontSelection": 0,
-			"isShowTargetText": true,
-			"paperModifierRotation":
-			{
-				"X": 0,
-				"Y": 0,
-				"Z": 0
-			}
-		},
-		{
-			"propName": "cz",
-			"propTransform":
-			{
-				"Rotation":
-				{
-					"X": 0,
-					"Y": -0,
-					"Z": 0,
-					"W": 1
-				},
-				"Translation":
-				{
-					"X": 1075.9852294921875,
-					"Y": 381.46295166015625,
-					"Z": 102.83619689941406
+					"X": -512.839111328125,
+					"Y": -1227.3720703125,
+					"Z": 0.0011138916015625
 				},
 				"Scale3D":
 				{
@@ -1022,7 +525,7 @@
 				}
 			},
 			"uniqueID": 79,
-			"activateIDs": [],
+			"activateIDs": [ 78 ],
 			"groupID": [],
 			"zOffset": 0,
 			"customAdImageFilename": "",
@@ -1039,6 +542,77 @@
 			"waypointStance": "walk",
 			"width": 1,
 			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "IMP1",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"propName": "wall-med-brown",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0,
+					"W": 1
+				},
+				"Translation":
+				{
+					"X": -1015.218505859375,
+					"Y": -353.96633911132812,
+					"Z": 0.001220703125
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 80,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 0.85000002384185791,
+			"height": 0.89999997615814209,
 			"depth": 1,
 			"isLocked": false,
 			"customText": "",
@@ -1069,21 +643,21 @@
 			}
 		},
 		{
-			"propName": "bush-generic-03",
+			"propName": "wall-med-brown",
 			"propTransform":
 			{
 				"Rotation":
 				{
 					"X": 0,
-					"Y": -0,
+					"Y": 0,
 					"Z": 0,
 					"W": 1
 				},
 				"Translation":
 				{
-					"X": 1362.6334228515625,
-					"Y": 236.34765625,
-					"Z": 156.495849609375
+					"X": -761.00958251953125,
+					"Y": -352.68466186523438,
+					"Z": 0.0010986328125
 				},
 				"Scale3D":
 				{
@@ -1092,7 +666,7 @@
 					"Z": 1
 				}
 			},
-			"uniqueID": 105,
+			"uniqueID": 81,
 			"activateIDs": [],
 			"groupID": [],
 			"zOffset": 0,
@@ -1108,79 +682,8 @@
 			"waypointNumber": 0,
 			"waypointDelayDuration": 2,
 			"waypointStance": "walk",
-			"width": 0.20000000298023224,
-			"height": 0.20000000298023224,
-			"depth": 0.20000000298023224,
-			"isLocked": false,
-			"customText": "",
-			"customPropDetails":
-			{
-				"customPropName": "",
-				"customPropGLBFilePath": "",
-				"customPropAuthor": ""
-			},
-			"sightlinePrecision": 0,
-			"customTextColor":
-			{
-				"R": 0.019999999552965164,
-				"G": 0.019999999552965164,
-				"B": 0.019999999552965164,
-				"A": 1
-			},
-			"swingerAngle": 90,
-			"portOpen": false,
-			"isRuler": false,
-			"fontSelection": 0,
-			"isShowTargetText": true,
-			"paperModifierRotation":
-			{
-				"X": 0,
-				"Y": 0,
-				"Z": 0
-			}
-		},
-		{
-			"propName": "barrel-green",
-			"propTransform":
-			{
-				"Rotation":
-				{
-					"X": 0,
-					"Y": -0,
-					"Z": 0,
-					"W": 1
-				},
-				"Translation":
-				{
-					"X": 1652.769775390625,
-					"Y": 13.386665344238281,
-					"Z": 0.1001129150390625
-				},
-				"Scale3D":
-				{
-					"X": 1,
-					"Y": 1,
-					"Z": 1
-				}
-			},
-			"uniqueID": 240,
-			"activateIDs": [],
-			"groupID": [],
-			"zOffset": 0,
-			"customAdImageFilename": "",
-			"customAdImage": "",
-			"customColor":
-			{
-				"R": 1,
-				"G": 1,
-				"B": 1,
-				"A": 1
-			},
-			"waypointNumber": 0,
-			"waypointDelayDuration": 2,
-			"waypointStance": "walk",
-			"width": 1,
-			"height": 1,
+			"width": 0.85000002384185791,
+			"height": 0.89999997615814209,
 			"depth": 1,
 			"isLocked": false,
 			"customText": "",
@@ -1211,21 +714,21 @@
 			}
 		},
 		{
-			"propName": "barrel-green",
+			"propName": "wall-med-brown",
 			"propTransform":
 			{
 				"Rotation":
 				{
-					"X": 0,
-					"Y": -0,
-					"Z": 0,
-					"W": 1
+					"X": -0,
+					"Y": 0,
+					"Z": -0.84804731607437134,
+					"W": 0.52992045879364014
 				},
 				"Translation":
 				{
-					"X": 1731.1846923828125,
-					"Y": -85.190994262695312,
-					"Z": 0.10009765625
+					"X": -695.9478759765625,
+					"Y": -471.10784912109375,
+					"Z": 0.0010986328125
 				},
 				"Scale3D":
 				{
@@ -1234,7 +737,7 @@
 					"Z": 1
 				}
 			},
-			"uniqueID": 242,
+			"uniqueID": 82,
 			"activateIDs": [],
 			"groupID": [],
 			"zOffset": 0,
@@ -1250,8 +753,8 @@
 			"waypointNumber": 0,
 			"waypointDelayDuration": 2,
 			"waypointStance": "walk",
-			"width": 1,
-			"height": 1,
+			"width": 0.85000002384185791,
+			"height": 0.89999997615814209,
 			"depth": 1,
 			"isLocked": false,
 			"customText": "",
@@ -1278,25 +781,25 @@
 			{
 				"X": 0,
 				"Y": 0,
-				"Z": 0
+				"Z": -116
 			}
 		},
 		{
-			"propName": "bush-generic-01",
+			"propName": "wall-med-brown",
 			"propTransform":
 			{
 				"Rotation":
 				{
-					"X": 0,
-					"Y": -0,
-					"Z": 0,
-					"W": 1
+					"X": -0,
+					"Y": 0,
+					"Z": -0.84804725646972656,
+					"W": 0.52992057800292969
 				},
 				"Translation":
 				{
-					"X": 1449.1851806640625,
-					"Y": 132.04498291015625,
-					"Z": 142.07757568359375
+					"X": -804.67535400390625,
+					"Y": -694.1026611328125,
+					"Z": 0.0009765625
 				},
 				"Scale3D":
 				{
@@ -1305,7 +808,7 @@
 					"Z": 1
 				}
 			},
-			"uniqueID": 226,
+			"uniqueID": 83,
 			"activateIDs": [],
 			"groupID": [],
 			"zOffset": 0,
@@ -1321,9 +824,9 @@
 			"waypointNumber": 0,
 			"waypointDelayDuration": 2,
 			"waypointStance": "walk",
-			"width": 0.5,
-			"height": 0.5,
-			"depth": 0.5,
+			"width": 0.85000002384185791,
+			"height": 0.89999997615814209,
+			"depth": 1,
 			"isLocked": false,
 			"customText": "",
 			"customPropDetails":
@@ -1349,25 +852,25 @@
 			{
 				"X": 0,
 				"Y": 0,
-				"Z": 0
+				"Z": -116
 			}
 		},
 		{
-			"propName": "bush-generic-01",
+			"propName": "wall-short-brown",
 			"propTransform":
 			{
 				"Rotation":
 				{
 					"X": 0,
 					"Y": -0,
-					"Z": 0,
-					"W": 1
+					"Z": 0.39073196053504944,
+					"W": 0.92050451040267944
 				},
 				"Translation":
 				{
-					"X": 1315.593505859375,
-					"Y": 260.2691650390625,
-					"Z": 67.5758056640625
+					"X": -785.1856689453125,
+					"Y": 834.6871337890625,
+					"Z": 0.0010986328125
 				},
 				"Scale3D":
 				{
@@ -1376,9 +879,9 @@
 					"Z": 1
 				}
 			},
-			"uniqueID": 224,
+			"uniqueID": 84,
 			"activateIDs": [],
-			"groupID": [],
+			"groupID": [ 104, 105 ],
 			"zOffset": 0,
 			"customAdImageFilename": "",
 			"customAdImage": "",
@@ -1392,9 +895,9 @@
 			"waypointNumber": 0,
 			"waypointDelayDuration": 2,
 			"waypointStance": "walk",
-			"width": 0.5,
-			"height": 0.5,
-			"depth": 0.5,
+			"width": 0.85000002384185791,
+			"height": 0.89999997615814209,
+			"depth": 1,
 			"isLocked": false,
 			"customText": "",
 			"customPropDetails":
@@ -1420,25 +923,25 @@
 			{
 				"X": 0,
 				"Y": 0,
-				"Z": 0
+				"Z": 46
 			}
 		},
 		{
-			"propName": "bush-generic-01",
+			"propName": "wall-short-brown",
 			"propTransform":
 			{
 				"Rotation":
 				{
-					"X": 0,
-					"Y": -0,
-					"Z": 0,
-					"W": 1
+					"X": -0,
+					"Y": 0,
+					"Z": -0.70710605382919312,
+					"W": 0.7071075439453125
 				},
 				"Translation":
 				{
-					"X": 1214.2705078125,
-					"Y": 180.472900390625,
-					"Z": 159.222412109375
+					"X": -860.2611083984375,
+					"Y": -869.7188720703125,
+					"Z": 0.0010986328125
 				},
 				"Scale3D":
 				{
@@ -1463,363 +966,8 @@
 			"waypointNumber": 0,
 			"waypointDelayDuration": 2,
 			"waypointStance": "walk",
-			"width": 0.5,
-			"height": 0.5,
-			"depth": 0.5,
-			"isLocked": false,
-			"customText": "",
-			"customPropDetails":
-			{
-				"customPropName": "",
-				"customPropGLBFilePath": "",
-				"customPropAuthor": ""
-			},
-			"sightlinePrecision": 0,
-			"customTextColor":
-			{
-				"R": 0.019999999552965164,
-				"G": 0.019999999552965164,
-				"B": 0.019999999552965164,
-				"A": 1
-			},
-			"swingerAngle": 90,
-			"portOpen": false,
-			"isRuler": false,
-			"fontSelection": 0,
-			"isShowTargetText": true,
-			"paperModifierRotation":
-			{
-				"X": 0,
-				"Y": 0,
-				"Z": 0
-			}
-		},
-		{
-			"propName": "bush-generic-01",
-			"propTransform":
-			{
-				"Rotation":
-				{
-					"X": 0,
-					"Y": -0,
-					"Z": 0,
-					"W": 1
-				},
-				"Translation":
-				{
-					"X": 1438.749755859375,
-					"Y": 276.3280029296875,
-					"Z": 13.420562744140625
-				},
-				"Scale3D":
-				{
-					"X": 1,
-					"Y": 1,
-					"Z": 1
-				}
-			},
-			"uniqueID": 236,
-			"activateIDs": [],
-			"groupID": [],
-			"zOffset": 0,
-			"customAdImageFilename": "",
-			"customAdImage": "",
-			"customColor":
-			{
-				"R": 1,
-				"G": 1,
-				"B": 1,
-				"A": 1
-			},
-			"waypointNumber": 0,
-			"waypointDelayDuration": 2,
-			"waypointStance": "walk",
-			"width": 0.5,
-			"height": 0.5,
-			"depth": 0.5,
-			"isLocked": false,
-			"customText": "",
-			"customPropDetails":
-			{
-				"customPropName": "",
-				"customPropGLBFilePath": "",
-				"customPropAuthor": ""
-			},
-			"sightlinePrecision": 0,
-			"customTextColor":
-			{
-				"R": 0.019999999552965164,
-				"G": 0.019999999552965164,
-				"B": 0.019999999552965164,
-				"A": 1
-			},
-			"swingerAngle": 90,
-			"portOpen": false,
-			"isRuler": false,
-			"fontSelection": 0,
-			"isShowTargetText": true,
-			"paperModifierRotation":
-			{
-				"X": 0,
-				"Y": 0,
-				"Z": 0
-			}
-		},
-		{
-			"propName": "bush-generic-01",
-			"propTransform":
-			{
-				"Rotation":
-				{
-					"X": 0,
-					"Y": -0,
-					"Z": 0,
-					"W": 1
-				},
-				"Translation":
-				{
-					"X": 1549.238037109375,
-					"Y": 122.68768310546875,
-					"Z": 76.904678344726562
-				},
-				"Scale3D":
-				{
-					"X": 1,
-					"Y": 1,
-					"Z": 1
-				}
-			},
-			"uniqueID": 237,
-			"activateIDs": [],
-			"groupID": [],
-			"zOffset": 0,
-			"customAdImageFilename": "",
-			"customAdImage": "",
-			"customColor":
-			{
-				"R": 1,
-				"G": 1,
-				"B": 1,
-				"A": 1
-			},
-			"waypointNumber": 0,
-			"waypointDelayDuration": 2,
-			"waypointStance": "walk",
-			"width": 0.5,
-			"height": 0.5,
-			"depth": 0.5,
-			"isLocked": false,
-			"customText": "",
-			"customPropDetails":
-			{
-				"customPropName": "",
-				"customPropGLBFilePath": "",
-				"customPropAuthor": ""
-			},
-			"sightlinePrecision": 0,
-			"customTextColor":
-			{
-				"R": 0.019999999552965164,
-				"G": 0.019999999552965164,
-				"B": 0.019999999552965164,
-				"A": 1
-			},
-			"swingerAngle": 90,
-			"portOpen": false,
-			"isRuler": false,
-			"fontSelection": 0,
-			"isShowTargetText": true,
-			"paperModifierRotation":
-			{
-				"X": 0,
-				"Y": 0,
-				"Z": 0
-			}
-		},
-		{
-			"propName": "bush-generic-01",
-			"propTransform":
-			{
-				"Rotation":
-				{
-					"X": 0,
-					"Y": -0,
-					"Z": 0,
-					"W": 1
-				},
-				"Translation":
-				{
-					"X": 1457.0679931640625,
-					"Y": -81.345077514648438,
-					"Z": 147.72366333007812
-				},
-				"Scale3D":
-				{
-					"X": 1,
-					"Y": 1,
-					"Z": 1
-				}
-			},
-			"uniqueID": 238,
-			"activateIDs": [],
-			"groupID": [],
-			"zOffset": 0,
-			"customAdImageFilename": "",
-			"customAdImage": "",
-			"customColor":
-			{
-				"R": 1,
-				"G": 1,
-				"B": 1,
-				"A": 1
-			},
-			"waypointNumber": 0,
-			"waypointDelayDuration": 2,
-			"waypointStance": "walk",
-			"width": 0.5,
-			"height": 0.5,
-			"depth": 0.5,
-			"isLocked": false,
-			"customText": "",
-			"customPropDetails":
-			{
-				"customPropName": "",
-				"customPropGLBFilePath": "",
-				"customPropAuthor": ""
-			},
-			"sightlinePrecision": 0,
-			"customTextColor":
-			{
-				"R": 0.019999999552965164,
-				"G": 0.019999999552965164,
-				"B": 0.019999999552965164,
-				"A": 1
-			},
-			"swingerAngle": 90,
-			"portOpen": false,
-			"isRuler": false,
-			"fontSelection": 0,
-			"isShowTargetText": true,
-			"paperModifierRotation":
-			{
-				"X": 0,
-				"Y": 0,
-				"Z": 0
-			}
-		},
-		{
-			"propName": "bush-generic-01",
-			"propTransform":
-			{
-				"Rotation":
-				{
-					"X": 0,
-					"Y": -0,
-					"Z": 0,
-					"W": 1
-				},
-				"Translation":
-				{
-					"X": 1554.640380859375,
-					"Y": -36.495346069335938,
-					"Z": 69.951820373535156
-				},
-				"Scale3D":
-				{
-					"X": 1,
-					"Y": 1,
-					"Z": 1
-				}
-			},
-			"uniqueID": 239,
-			"activateIDs": [],
-			"groupID": [],
-			"zOffset": 0,
-			"customAdImageFilename": "",
-			"customAdImage": "",
-			"customColor":
-			{
-				"R": 1,
-				"G": 1,
-				"B": 1,
-				"A": 1
-			},
-			"waypointNumber": 0,
-			"waypointDelayDuration": 2,
-			"waypointStance": "walk",
-			"width": 0.5,
-			"height": 0.5,
-			"depth": 0.5,
-			"isLocked": false,
-			"customText": "",
-			"customPropDetails":
-			{
-				"customPropName": "",
-				"customPropGLBFilePath": "",
-				"customPropAuthor": ""
-			},
-			"sightlinePrecision": 0,
-			"customTextColor":
-			{
-				"R": 0.019999999552965164,
-				"G": 0.019999999552965164,
-				"B": 0.019999999552965164,
-				"A": 1
-			},
-			"swingerAngle": 90,
-			"portOpen": false,
-			"isRuler": false,
-			"fontSelection": 0,
-			"isShowTargetText": true,
-			"paperModifierRotation":
-			{
-				"X": 0,
-				"Y": 0,
-				"Z": 0
-			}
-		},
-		{
-			"propName": "barrel-blue",
-			"propTransform":
-			{
-				"Rotation":
-				{
-					"X": 0,
-					"Y": -0,
-					"Z": 0,
-					"W": 1
-				},
-				"Translation":
-				{
-					"X": 1336.781982421875,
-					"Y": 349.7476806640625,
-					"Z": 0.1000823974609375
-				},
-				"Scale3D":
-				{
-					"X": 1,
-					"Y": 1,
-					"Z": 1
-				}
-			},
-			"uniqueID": 227,
-			"activateIDs": [],
-			"groupID": [],
-			"zOffset": 0,
-			"customAdImageFilename": "",
-			"customAdImage": "",
-			"customColor":
-			{
-				"R": 1,
-				"G": 1,
-				"B": 1,
-				"A": 1
-			},
-			"waypointNumber": 0,
-			"waypointDelayDuration": 2,
-			"waypointStance": "walk",
-			"width": 1,
-			"height": 1,
+			"width": 0.85000002384185791,
+			"height": 0.89999997615814209,
 			"depth": 1,
 			"isLocked": false,
 			"customText": "",
@@ -1846,44 +994,115 @@
 			{
 				"X": 0,
 				"Y": 0,
-				"Z": 0
+				"Z": -90
 			}
 		},
 		{
-			"propName": "barrel-blue",
+			"propName": "faultline-adjustable",
 			"propTransform":
 			{
 				"Rotation":
 				{
 					"X": 0,
 					"Y": -0,
-					"Z": 0,
-					"W": 1
+					"Z": 0.46095788478851318,
+					"W": 0.88742202520370483
 				},
 				"Translation":
 				{
-					"X": 1668.6639404296875,
-					"Y": -158.13099670410156,
-					"Z": 0.1000823974609375
+					"X": -831.5677490234375,
+					"Y": 835.70770263671875,
+					"Z": 2
 				},
 				"Scale3D":
 				{
-					"X": 1,
+					"X": 18.496011734008789,
 					"Y": 1,
 					"Z": 1
 				}
 			},
-			"uniqueID": 228,
+			"uniqueID": 114,
 			"activateIDs": [],
 			"groupID": [],
-			"zOffset": 0,
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "walk",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": true,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"propName": "faultline-adjustable",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0.71091818809509277,
+					"W": 0.70327472686767578
+				},
+				"Translation":
+				{
+					"X": -1247.8564453125,
+					"Y": -342.31027221679688,
+					"Z": 2
+				},
+				"Scale3D":
+				{
+					"X": 20.603839874267578,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 70,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
 			"customAdImageFilename": "",
 			"customAdImage": "",
 			"customColor":
 			{
 				"R": 1,
 				"G": 1,
-				"B": 1,
+				"B": 0,
 				"A": 1
 			},
 			"waypointNumber": 0,
@@ -1903,9 +1122,9 @@
 			"sightlinePrecision": 0,
 			"customTextColor":
 			{
-				"R": 0.019999999552965164,
-				"G": 0.019999999552965164,
-				"B": 0.019999999552965164,
+				"R": 1,
+				"G": 1,
+				"B": 1,
 				"A": 1
 			},
 			"swingerAngle": 90,
@@ -1921,40 +1140,40 @@
 			}
 		},
 		{
-			"propName": "barrel-blue",
+			"propName": "faultline-adjustable",
 			"propTransform":
 			{
 				"Rotation":
 				{
-					"X": 0,
-					"Y": -0,
-					"Z": 0,
-					"W": 1
+					"X": -0,
+					"Y": 0,
+					"Z": -0.99999523162841797,
+					"W": 0.0030778646469116211
 				},
 				"Translation":
 				{
-					"X": 1672.8154296875,
-					"Y": -267.97726440429688,
-					"Z": 0.10009765625
+					"X": -522.1226806640625,
+					"Y": -338.232421875,
+					"Z": 2
 				},
 				"Scale3D":
 				{
-					"X": 1,
+					"X": 72.614913940429688,
 					"Y": 1,
 					"Z": 1
 				}
 			},
-			"uniqueID": 243,
+			"uniqueID": 69,
 			"activateIDs": [],
 			"groupID": [],
-			"zOffset": 0,
+			"zOffset": 2,
 			"customAdImageFilename": "",
 			"customAdImage": "",
 			"customColor":
 			{
 				"R": 1,
 				"G": 1,
-				"B": 1,
+				"B": 0,
 				"A": 1
 			},
 			"waypointNumber": 0,
@@ -1974,82 +1193,11 @@
 			"sightlinePrecision": 0,
 			"customTextColor":
 			{
-				"R": 0.019999999552965164,
-				"G": 0.019999999552965164,
-				"B": 0.019999999552965164,
-				"A": 1
-			},
-			"swingerAngle": 90,
-			"portOpen": false,
-			"isRuler": false,
-			"fontSelection": 0,
-			"isShowTargetText": true,
-			"paperModifierRotation":
-			{
-				"X": 0,
-				"Y": 0,
-				"Z": 0
-			}
-		},
-		{
-			"propName": "mossy-embankment-04",
-			"propTransform":
-			{
-				"Rotation":
-				{
-					"X": -0.13712701201438904,
-					"Y": -0.041997097432613373,
-					"Z": -0.16849428415298462,
-					"W": 0.97521388530731201
-				},
-				"Translation":
-				{
-					"X": 1338.911865234375,
-					"Y": 281.40017700195312,
-					"Z": -125.89990234375
-				},
-				"Scale3D":
-				{
-					"X": 1,
-					"Y": 1,
-					"Z": 1
-				}
-			},
-			"uniqueID": 213,
-			"activateIDs": [],
-			"groupID": [],
-			"zOffset": -126,
-			"customAdImageFilename": "",
-			"customAdImage": "",
-			"customColor":
-			{
 				"R": 1,
 				"G": 1,
 				"B": 1,
 				"A": 1
 			},
-			"waypointNumber": 0,
-			"waypointDelayDuration": 2,
-			"waypointStance": "walk",
-			"width": 1.8000028133392334,
-			"height": 3.0000019073486328,
-			"depth": 3.0000019073486328,
-			"isLocked": false,
-			"customText": "",
-			"customPropDetails":
-			{
-				"customPropName": "",
-				"customPropGLBFilePath": "",
-				"customPropAuthor": ""
-			},
-			"sightlinePrecision": 0,
-			"customTextColor":
-			{
-				"R": 0.019999999552965164,
-				"G": 0.019999999552965164,
-				"B": 0.019999999552965164,
-				"A": 1
-			},
 			"swingerAngle": 90,
 			"portOpen": false,
 			"isRuler": false,
@@ -2063,332 +1211,48 @@
 			}
 		},
 		{
-			"propName": "mossy-embankment-04",
-			"propTransform":
-			{
-				"Rotation":
-				{
-					"X": -0.15156513452529907,
-					"Y": -0.027206715196371078,
-					"Z": -0.77610468864440918,
-					"W": 0.61151403188705444
-				},
-				"Translation":
-				{
-					"X": 1457.2303466796875,
-					"Y": -11.39105224609375,
-					"Z": 2.0105743408203125
-				},
-				"Scale3D":
-				{
-					"X": 1,
-					"Y": 1,
-					"Z": 1
-				}
-			},
-			"uniqueID": 225,
-			"activateIDs": [],
-			"groupID": [],
-			"zOffset": -126,
-			"customAdImageFilename": "",
-			"customAdImage": "",
-			"customColor":
-			{
-				"R": 1,
-				"G": 1,
-				"B": 1,
-				"A": 1
-			},
-			"waypointNumber": 0,
-			"waypointDelayDuration": 2,
-			"waypointStance": "walk",
-			"width": 1.8000028133392334,
-			"height": 3.0000019073486328,
-			"depth": 3.0000019073486328,
-			"isLocked": false,
-			"customText": "",
-			"customPropDetails":
-			{
-				"customPropName": "",
-				"customPropGLBFilePath": "",
-				"customPropAuthor": ""
-			},
-			"sightlinePrecision": 0,
-			"customTextColor":
-			{
-				"R": 0.019999999552965164,
-				"G": 0.019999999552965164,
-				"B": 0.019999999552965164,
-				"A": 1
-			},
-			"swingerAngle": 90,
-			"portOpen": false,
-			"isRuler": false,
-			"fontSelection": 0,
-			"isShowTargetText": true,
-			"paperModifierRotation":
-			{
-				"X": 0,
-				"Y": 0,
-				"Z": 0
-			}
-		},
-		{
-			"propName": "mossy-embankment-03",
-			"propTransform":
-			{
-				"Rotation":
-				{
-					"X": -0.18928946554660797,
-					"Y": 0.17651435732841492,
-					"Z": -0.65875780582427979,
-					"W": 0.70643496513366699
-				},
-				"Translation":
-				{
-					"X": 1527.618408203125,
-					"Y": -1123.6395263671875,
-					"Z": -73.89990234375
-				},
-				"Scale3D":
-				{
-					"X": 1,
-					"Y": 1,
-					"Z": 1
-				}
-			},
-			"uniqueID": 211,
-			"activateIDs": [],
-			"groupID": [],
-			"zOffset": -74,
-			"customAdImageFilename": "",
-			"customAdImage": "",
-			"customColor":
-			{
-				"R": 1,
-				"G": 1,
-				"B": 1,
-				"A": 1
-			},
-			"waypointNumber": 0,
-			"waypointDelayDuration": 2,
-			"waypointStance": "walk",
-			"width": 5,
-			"height": 5,
-			"depth": 5,
-			"isLocked": false,
-			"customText": "",
-			"customPropDetails":
-			{
-				"customPropName": "",
-				"customPropGLBFilePath": "",
-				"customPropAuthor": ""
-			},
-			"sightlinePrecision": 0,
-			"customTextColor":
-			{
-				"R": 0.019999999552965164,
-				"G": 0.019999999552965164,
-				"B": 0.019999999552965164,
-				"A": 1
-			},
-			"swingerAngle": 90,
-			"portOpen": false,
-			"isRuler": false,
-			"fontSelection": 0,
-			"isShowTargetText": true,
-			"paperModifierRotation":
-			{
-				"X": 0,
-				"Y": 0,
-				"Z": 0
-			}
-		},
-		{
-			"propName": "mossy-embankment-03",
-			"propTransform":
-			{
-				"Rotation":
-				{
-					"X": 0.060584552586078644,
-					"Y": 0.062737531960010529,
-					"Z": 0.71660089492797852,
-					"W": 0.69200915098190308
-				},
-				"Translation":
-				{
-					"X": 1422.1787109375,
-					"Y": 682.23187255859375,
-					"Z": -263.89990234375
-				},
-				"Scale3D":
-				{
-					"X": 1,
-					"Y": 1,
-					"Z": 1
-				}
-			},
-			"uniqueID": 160,
-			"activateIDs": [],
-			"groupID": [],
-			"zOffset": -264,
-			"customAdImageFilename": "",
-			"customAdImage": "",
-			"customColor":
-			{
-				"R": 1,
-				"G": 1,
-				"B": 1,
-				"A": 1
-			},
-			"waypointNumber": 0,
-			"waypointDelayDuration": 2,
-			"waypointStance": "walk",
-			"width": 1.5000027418136597,
-			"height": 5,
-			"depth": 2.0000028610229492,
-			"isLocked": false,
-			"customText": "",
-			"customPropDetails":
-			{
-				"customPropName": "",
-				"customPropGLBFilePath": "",
-				"customPropAuthor": ""
-			},
-			"sightlinePrecision": 0,
-			"customTextColor":
-			{
-				"R": 0.019999999552965164,
-				"G": 0.019999999552965164,
-				"B": 0.019999999552965164,
-				"A": 1
-			},
-			"swingerAngle": 90,
-			"portOpen": false,
-			"isRuler": false,
-			"fontSelection": 0,
-			"isShowTargetText": true,
-			"paperModifierRotation":
-			{
-				"X": 0,
-				"Y": 0,
-				"Z": 0
-			}
-		},
-		{
-			"propName": "mossy-embankment-03",
-			"propTransform":
-			{
-				"Rotation":
-				{
-					"X": -0.18928946554660797,
-					"Y": 0.17651435732841492,
-					"Z": -0.65875780582427979,
-					"W": 0.70643496513366699
-				},
-				"Translation":
-				{
-					"X": 1628.6317138671875,
-					"Y": -724.31866455078125,
-					"Z": -73.89984130859375
-				},
-				"Scale3D":
-				{
-					"X": 1,
-					"Y": 1,
-					"Z": 1
-				}
-			},
-			"uniqueID": 212,
-			"activateIDs": [],
-			"groupID": [],
-			"zOffset": -74,
-			"customAdImageFilename": "",
-			"customAdImage": "",
-			"customColor":
-			{
-				"R": 1,
-				"G": 1,
-				"B": 1,
-				"A": 1
-			},
-			"waypointNumber": 0,
-			"waypointDelayDuration": 2,
-			"waypointStance": "walk",
-			"width": 5,
-			"height": 3.8000011444091797,
-			"depth": 5,
-			"isLocked": false,
-			"customText": "",
-			"customPropDetails":
-			{
-				"customPropName": "",
-				"customPropGLBFilePath": "",
-				"customPropAuthor": ""
-			},
-			"sightlinePrecision": 0,
-			"customTextColor":
-			{
-				"R": 0.019999999552965164,
-				"G": 0.019999999552965164,
-				"B": 0.019999999552965164,
-				"A": 1
-			},
-			"swingerAngle": 90,
-			"portOpen": false,
-			"isRuler": false,
-			"fontSelection": 0,
-			"isShowTargetText": true,
-			"paperModifierRotation":
-			{
-				"X": 0,
-				"Y": 0,
-				"Z": 0
-			}
-		},
-		{
-			"propName": "mossy-embankment-05",
+			"propName": "faultline-adjustable",
 			"propTransform":
 			{
 				"Rotation":
 				{
 					"X": 0,
 					"Y": -0,
-					"Z": 0.70710760354995728,
-					"W": 0.70710593461990356
+					"Z": 0.0026692012324929237,
+					"W": 0.99999642372131348
 				},
 				"Translation":
 				{
-					"X": 1126.1473388671875,
-					"Y": -808.2706298828125,
-					"Z": -37.8997802734375
+					"X": -1252.21826171875,
+					"Y": -139.8927001953125,
+					"Z": 2
 				},
 				"Scale3D":
 				{
-					"X": 1,
+					"X": 52.389198303222656,
 					"Y": 1,
 					"Z": 1
 				}
 			},
-			"uniqueID": 209,
+			"uniqueID": 71,
 			"activateIDs": [],
 			"groupID": [],
-			"zOffset": -38,
+			"zOffset": 2,
 			"customAdImageFilename": "",
 			"customAdImage": "",
 			"customColor":
 			{
 				"R": 1,
 				"G": 1,
-				"B": 1,
+				"B": 0,
 				"A": 1
 			},
 			"waypointNumber": 0,
 			"waypointDelayDuration": 2,
 			"waypointStance": "walk",
-			"width": 5,
-			"height": 5,
-			"depth": 5,
+			"width": 1,
+			"height": 1,
+			"depth": 1,
 			"isLocked": false,
 			"customText": "",
 			"customPropDetails":
@@ -2400,9 +1264,9 @@
 			"sightlinePrecision": 0,
 			"customTextColor":
 			{
-				"R": 0.019999999552965164,
-				"G": 0.019999999552965164,
-				"B": 0.019999999552965164,
+				"R": 1,
+				"G": 1,
+				"B": 1,
 				"A": 1
 			},
 			"swingerAngle": 90,
@@ -2418,20 +1282,1014 @@
 			}
 		},
 		{
-			"propName": "pickup-truck",
+			"propName": "faultline-adjustable",
 			"propTransform":
 			{
 				"Rotation":
 				{
 					"X": 0,
 					"Y": -0,
-					"Z": 0.74314439296722412,
-					"W": 0.66913104057312012
+					"Z": 0.70628541707992554,
+					"W": 0.70792722702026367
 				},
 				"Translation":
 				{
-					"X": 2175.423828125,
-					"Y": -136.00833129882812,
+					"X": -520.204833984375,
+					"Y": -336.81915283203125,
+					"Z": 2
+				},
+				"Scale3D":
+				{
+					"X": 145.88322448730469,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 72,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"propName": "faultline-adjustable",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0.99998831748962402,
+					"W": 0.0048100948333740234
+				},
+				"Translation":
+				{
+					"X": -517.567626953125,
+					"Y": 1114.94482421875,
+					"Z": 2
+				},
+				"Scale3D":
+				{
+					"X": 20.955516815185547,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 74,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"propName": "faultline-adjustable",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": -0,
+					"Y": 0,
+					"Z": -0.707358717918396,
+					"W": 0.70685476064682007
+				},
+				"Translation":
+				{
+					"X": -727.03204345703125,
+					"Y": 1119.1771240234375,
+					"Z": 2
+				},
+				"Scale3D":
+				{
+					"X": 125.12917327880859,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 75,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"propName": "faultline-adjustable",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0.23950150609016418,
+					"W": 0.97089600563049316
+				},
+				"Translation":
+				{
+					"X": -1279.5623779296875,
+					"Y": 97.330810546875,
+					"Z": 2
+				},
+				"Scale3D":
+				{
+					"X": 62.074787139892578,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 115,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "walk",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": true,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"propName": "faultline-adjustable",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0.3050539493560791,
+					"W": 0.95233505964279175
+				},
+				"Translation":
+				{
+					"X": -894.7791748046875,
+					"Y": 52.078048706054688,
+					"Z": 2
+				},
+				"Scale3D":
+				{
+					"X": 20.958370208740234,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 116,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "walk",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": true,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"propName": "faultline-adjustable",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0.98217260837554932,
+					"W": 0.18798118829727173
+				},
+				"Translation":
+				{
+					"X": -327.08917236328125,
+					"Y": 645.9239501953125,
+					"Z": 2
+				},
+				"Scale3D":
+				{
+					"X": 20.814865112304688,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 117,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "walk",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": true,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"propName": "faultline-adjustable",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0.93217438459396362,
+					"W": 0.36200970411300659
+				},
+				"Translation":
+				{
+					"X": -327.255615234375,
+					"Y": 454.6922607421875,
+					"Z": 2
+				},
+				"Scale3D":
+				{
+					"X": 26.438638687133789,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 118,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "walk",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": true,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"propName": "faultline-adjustable",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0.84077143669128418,
+					"W": 0.54139018058776855
+				},
+				"Translation":
+				{
+					"X": -344.48333740234375,
+					"Y": -723.434814453125,
+					"Z": 2
+				},
+				"Scale3D":
+				{
+					"X": 41.438636779785156,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 119,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "walk",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": true,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"propName": "faultline-adjustable",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0.78401845693588257,
+					"W": 0.62073749303817749
+				},
+				"Translation":
+				{
+					"X": -339.238037109375,
+					"Y": -1173.091064453125,
+					"Z": 2
+				},
+				"Scale3D":
+				{
+					"X": 85.648910522460938,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 120,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "walk",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": true,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"propName": "faultline-adjustable",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0.72643554210662842,
+					"W": 0.68723458051681519
+				},
+				"Translation":
+				{
+					"X": -512.78021240234375,
+					"Y": -1227.802734375,
+					"Z": 2
+				},
+				"Scale3D":
+				{
+					"X": 89.062477111816406,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 121,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "walk",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": true,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"propName": "faultline-adjustable",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0.5729600191116333,
+					"W": 0.81958329677581787
+				},
+				"Translation":
+				{
+					"X": -799.338623046875,
+					"Y": -898.3905029296875,
+					"Z": 2
+				},
+				"Scale3D":
+				{
+					"X": 59.885967254638672,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 122,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "walk",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": true,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"propName": "faultline-adjustable",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0.59718966484069824,
+					"W": 0.80210006237030029
+				},
+				"Translation":
+				{
+					"X": -1367.86328125,
+					"Y": -748.77142333984375,
+					"Z": 2
+				},
+				"Scale3D":
+				{
+					"X": 42.797855377197266,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 123,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "walk",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": true,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"propName": "faultline-adjustable",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0.83977532386779785,
+					"W": 0.54293406009674072
+				},
+				"Translation":
+				{
+					"X": -939.55084228515625,
+					"Y": -878.0284423828125,
+					"Z": 2
+				},
+				"Scale3D":
+				{
+					"X": 58.600360870361328,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 124,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "walk",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": true,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"propName": "faultline-adjustable",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0.67847186326980591,
+					"W": 0.7346264123916626
+				},
+				"Translation":
+				{
+					"X": -1278.9259033203125,
+					"Y": -1140.1903076171875,
+					"Z": 2
+				},
+				"Scale3D":
+				{
+					"X": 80.462287902832031,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 125,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "walk",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": true,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"propName": "ipsc-swinger",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0,
+					"W": 1
+				},
+				"Translation":
+				{
+					"X": -1240.66064453125,
+					"Y": -1146.3756103515625,
 					"Z": 0.0010986328125
 				},
 				"Scale3D":
@@ -2441,7 +2299,717 @@
 					"Z": 1
 				}
 			},
-			"uniqueID": 270,
+			"uniqueID": 78,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0.81484699249267578,
+				"G": 0.42326799035072327,
+				"B": 0.149959996342659,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "IT1",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"propName": "ipsc-full-target",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": -0,
+					"Y": 0,
+					"Z": -0.16703274846076965,
+					"W": 0.98595136404037476
+				},
+				"Translation":
+				{
+					"X": -793.15252685546875,
+					"Y": -900.675537109375,
+					"Z": 0.0010833740234375
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 107,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0.81484699249267578,
+				"G": 0.42326799035072327,
+				"B": 0.149959996342659,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": " IT7",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"propName": "ipsc-full-target",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0.13040970265865326,
+					"W": 0.99146020412445068
+				},
+				"Translation":
+				{
+					"X": -343.7176513671875,
+					"Y": -1174.4246826171875,
+					"Z": 0.0010833740234375
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 90,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0.81484699249267578,
+				"G": 0.42326799035072327,
+				"B": 0.149959996342659,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": " IT11",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"propName": "ipsc-full-target",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0.1989731639623642,
+					"W": 0.98000496625900269
+				},
+				"Translation":
+				{
+					"X": -946.599853515625,
+					"Y": -881.14453125,
+					"Z": 0.0010986328125
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 93,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0.81484699249267578,
+				"G": 0.42326799035072327,
+				"B": 0.149959996342659,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": " IT3",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"propName": "ipsc-full-target-short",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": -0,
+					"Y": 0,
+					"Z": -0.48905476927757263,
+					"W": 0.87225306034088135
+				},
+				"Translation":
+				{
+					"X": -1280.77294921875,
+					"Y": 99.061492919921875,
+					"Z": 0.0010986328125
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 109,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0.81484699249267578,
+				"G": 0.42326799035072327,
+				"B": 0.149959996342659,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": " IT2",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"propName": "ipsc-full-target-short",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0.20993827283382416,
+					"W": 0.9777146577835083
+				},
+				"Translation":
+				{
+					"X": -346.48867797851562,
+					"Y": -724.48028564453125,
+					"Z": 0.0010986328125
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 89,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0.81484699249267578,
+				"G": 0.42326799035072327,
+				"B": 0.149959996342659,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": " IT10",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"propName": "ipsc-full-target-short",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": -0,
+					"Y": 0,
+					"Z": -0.28391370177268982,
+					"W": 0.95884984731674194
+				},
+				"Translation":
+				{
+					"X": -1368.6346435546875,
+					"Y": -748.413818359375,
+					"Z": 0.0010833740234375
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 91,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0.81484699249267578,
+				"G": 0.42326799035072327,
+				"B": 0.149959996342659,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": " IT1",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"propName": "ipsc-full-short-tilted",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": -0,
+					"Y": 0,
+					"Z": -0.39740735292434692,
+					"W": 0.91764229536056519
+				},
+				"Translation":
+				{
+					"X": -870.5386962890625,
+					"Y": 72.435226440429688,
+					"Z": 0.0010986328125
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 111,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0.81484699249267578,
+				"G": 0.42326799035072327,
+				"B": 0.149959996342659,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": " IT4",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"propName": "ipsc-full-short-tilted",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0.44798365235328674,
+					"W": 0.89404171705245972
+				},
+				"Translation":
+				{
+					"X": -350.40771484375,
+					"Y": 480.35174560546875,
+					"Z": 0.0010833740234375
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 96,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0.81484699249267578,
+				"G": 0.42326799035072327,
+				"B": 0.149959996342659,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": " IT9",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"propName": "ipsc-full-short-tilted",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0.38690397143363953,
+					"W": 0.92211997509002686
+				},
+				"Translation":
+				{
+					"X": -351.76898193359375,
+					"Y": 656.003662109375,
+					"Z": 0.0010986328125
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 102,
+			"activateIDs": [],
+			"groupID": [ 103 ],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0.81484699249267578,
+				"G": 0.42326799035072327,
+				"B": 0.149959996342659,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": " IT8",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"propName": "ipsc-noshoot",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0.35287988185882568,
+					"Y": 0.14806218445301056,
+					"Z": 0.35745304822921753,
+					"W": 0.85192757844924927
+				},
+				"Translation":
+				{
+					"X": -345.88552856445312,
+					"Y": 631.34564208984375,
+					"Z": 23.600997924804688
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 103,
 			"activateIDs": [],
 			"groupID": [],
 			"zOffset": 0,
@@ -2450,8 +3018,221 @@
 			"customColor":
 			{
 				"R": 1,
-				"G": 0,
-				"B": 0,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"propName": "ipsc-two-stack-vert",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": -0,
+					"Y": 0,
+					"Z": -0.34471926093101501,
+					"W": 0.93870586156845093
+				},
+				"Translation":
+				{
+					"X": -836.0863037109375,
+					"Y": 839.38623046875,
+					"Z": 0.0010986328125
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 95,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0.81484699249267578,
+				"G": 0.42326799035072327,
+				"B": 0.149959996342659,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": " IT5 IT6",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"propName": "ipsc-noshoot-right",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": -0.37460523843765259,
+					"W": 0.9271843433380127
+				},
+				"Translation":
+				{
+					"X": -741.9495849609375,
+					"Y": 882.91058349609375,
+					"Z": 126.36627197265625
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 104,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"propName": "ipsc-noshoot-right",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": -0.37460523843765259,
+					"W": 0.9271843433380127
+				},
+				"Translation":
+				{
+					"X": -742.22039794921875,
+					"Y": 883.05389404296875,
+					"Z": 68.590225219726562
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 105,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
 				"A": 1
 			},
 			"waypointNumber": 0,
@@ -2489,22 +3270,22 @@
 			}
 		}
 	],
-	"stageBrief": "The start position is standing in the box, facing completly down range with hands relaxed at sides and wrists below belt. Handgun is loaded and holstered.\r\nPCC start position is standing in the box, muzzle pointing down range and stock on belt.\r\n",
-	"buildInstructions": "Place a barrel on the left side of the steel activator to prevent damage to the red truck. ",
-	"numPaper": 4,
+	"stageBrief": "The start position is standing anywhere in the shooting area, facing down range with wrists below belt. Handgun is loaded and holstered.\r\nPCC start position is standing anywhere in the shooting area, facing down range, stock on belt, muzzle pointed down range, loaded carbine held in both hands with safety on.\r\n\r\nOn the audible start signal, engage all targets from within the shooting area. Best two hits on paper and steel must fall to score.",
+	"buildInstructions": "This stage is meant for a bay that is 11 meters wide and 25 meters deep.",
+	"numPaper": 12,
 	"numSteel": 1,
-	"numNoshoots": 0,
-	"numPoints": 45,
+	"numNoshoots": 3,
+	"numPoints": 125,
 	"numPerPaper": 2,
-	"numRounds": 9,
+	"numRounds": 25,
 	"scoringType": 0,
 	"paperType": 1,
-	"courseType": 0,
+	"courseType": 2,
 	"bayType": 0,
 	"skyRotation": 0,
 	"skyType": 0,
-	"startPosition": "The start position is standing in the box, facing completly down range with hands relaxed at sides and wrists below belt. Handgun is loaded and holstered.\r\nPCC start position is standing in the box, muzzle pointing down range and stock on belt.\r\n\r\n",
-	"procedure": "On the audible start signal, engage all targets from within the shooting area. IMP1 activates IT1 ",
+	"startPosition": "The start position is standing anywhere in the shooting area, facing down range with wrists below belt. Handgun is loaded and holstered. PCC start position is stock on belt, muzzle pointing downrange",
+	"procedure": "On the audible start signal, engage all targets from within the shooting area.",
 	"customCameraTransform":
 	{
 		"Rotation":
@@ -2527,7 +3308,7 @@
 			"Z": 1
 		}
 	},
-	"customCameraFOV": 1702.9561767578125,
+	"customCameraFOV": 2957.443603515625,
 	"stageShape":
 	{
 		"presetName": "MCTA_Bay_01",
@@ -2537,96 +3318,96 @@
 				"Y": 1
 			},
 			{
-				"X": 2.7166662216186523,
+				"X": 19.883331298828125,
 				"Y": 1
 			},
 			{
-				"X": 4.4333333969116211,
+				"X": 38.76666259765625,
 				"Y": 1
 			},
 			{
-				"X": 6.1500005722045898,
+				"X": 57.650009155273438,
 				"Y": 1
 			},
 			{
-				"X": 7.8666658401489258,
+				"X": 76.533340454101562,
 				"Y": 1
 			},
 			{
-				"X": 9.5833330154418945,
+				"X": 95.416671752929688,
 				"Y": 1
 			},
 			{
-				"X": 11.300000190734863,
+				"X": 114.30000305175781,
 				"Y": 1
 			},
 			{
-				"X": 11.300000190734863,
-				"Y": 2.7166662216186523
+				"X": 114.30000305175781,
+				"Y": 43.916656494140625
 			},
 			{
-				"X": 11.300000190734863,
-				"Y": 4.4333333969116211
+				"X": 114.30000305175781,
+				"Y": 86.833343505859375
 			},
 			{
-				"X": 11.300000190734863,
-				"Y": 6.1500005722045898
+				"X": 114.30000305175781,
+				"Y": 129.75
 			},
 			{
-				"X": 11.300000190734863,
-				"Y": 7.8666658401489258
+				"X": 114.30000305175781,
+				"Y": 172.66668701171875
 			},
 			{
-				"X": 11.300000190734863,
-				"Y": 9.5833330154418945
+				"X": 114.30000305175781,
+				"Y": 215.58334350585938
 			},
 			{
-				"X": 11.300000190734863,
-				"Y": 11.300000190734863
+				"X": 114.30000305175781,
+				"Y": 258.5
 			},
 			{
-				"X": 9.5833330154418945,
-				"Y": 11.300000190734863
+				"X": 95.416671752929688,
+				"Y": 258.5
 			},
 			{
-				"X": 7.8666658401489258,
-				"Y": 11.300000190734863
+				"X": 76.533340454101562,
+				"Y": 258.5
 			},
 			{
-				"X": 6.1500005722045898,
-				"Y": 11.300000190734863
+				"X": 57.650009155273438,
+				"Y": 258.5
 			},
 			{
-				"X": 4.4333333969116211,
-				"Y": 11.300000190734863
+				"X": 38.76666259765625,
+				"Y": 258.5
 			},
 			{
-				"X": 2.7166662216186523,
-				"Y": 11.300000190734863
-			},
-			{
-				"X": 1,
-				"Y": 11.300000190734863
+				"X": 19.883331298828125,
+				"Y": 258.5
 			},
 			{
 				"X": 1,
-				"Y": 9.5833330154418945
+				"Y": 258.5
 			},
 			{
 				"X": 1,
-				"Y": 7.8666658401489258
+				"Y": 215.58334350585938
 			},
 			{
 				"X": 1,
-				"Y": 6.1500005722045898
+				"Y": 172.66668701171875
 			},
 			{
 				"X": 1,
-				"Y": 4.4333333969116211
+				"Y": 129.75
 			},
 			{
 				"X": 1,
-				"Y": 2.7166662216186523
+				"Y": 86.833343505859375
+			},
+			{
+				"X": 1,
+				"Y": 43.916656494140625
 			},
 			{
 				"X": 1,
@@ -2636,8 +3417,8 @@
 		"wallTexture": 17,
 		"groundTexture": "Medium Gray",
 		"showHideFrontWalls": false,
-		"width": 0.30000001192092896,
-		"height": 0.30000001192092896
+		"width": 11,
+		"height": 25
 	},
 	"upvotes": 0,
 	"downvotes": 0,
@@ -2670,7 +3451,7 @@
 	"muzzleSafe": "180-degree plane",
 	"distances": "x yards",
 	"concealment": 0,
-	"cameraSelection": 2,
+	"cameraSelection": 1,
 	"templateSelection": 1,
 	"celShadingSelection": 0,
 	"simpleBGSelection": 0,
@@ -2687,9 +3468,9 @@
 				},
 				"Translation":
 				{
-					"X": -550.0040283203125,
-					"Y": 1100.53759765625,
-					"Z": 1362.99951171875
+					"X": -0.0040283203125,
+					"Y": 350.53759765625,
+					"Z": 462.99951171875
 				},
 				"Scale3D":
 				{
@@ -2702,12 +3483,12 @@
 			"camName": "Default",
 			"camPerspective": "Perspective",
 			"camSequenceNo": 0,
-			"camCelShade": true,
-			"camSimplify": true,
+			"camCelShade": false,
+			"camSimplify": false,
 			"camTop2DView": false,
 			"camSizeX": 1920,
 			"camSizeY": 1080,
-			"camTextFaceCamera": true,
+			"camTextFaceCamera": false,
 			"camFilter": "None",
 			"camNotes": ""
 		},
@@ -2716,16 +3497,16 @@
 			{
 				"Rotation":
 				{
-					"X": 0.5679783821105957,
-					"Y": 0.0014099515974521637,
-					"Z": -0.823039710521698,
-					"W": 0.002043355954810977
+					"X": 0.32467359304428101,
+					"Y": 0.3257119357585907,
+					"Z": -0.62688958644866943,
+					"W": 0.62889444828033447
 				},
 				"Translation":
 				{
-					"X": 2616.484375,
-					"Y": -1212.150390625,
-					"Z": 936.02557373046875
+					"X": -816.4810791015625,
+					"Y": 1259.6368408203125,
+					"Z": 1309.8974609375
 				},
 				"Scale3D":
 				{
@@ -2735,42 +3516,6 @@
 				}
 			},
 			"camFOV": 90,
-			"camName": "02",
-			"camPerspective": "perspective",
-			"camSequenceNo": 1,
-			"camCelShade": true,
-			"camSimplify": false,
-			"camTop2DView": false,
-			"camSizeX": 1920,
-			"camSizeY": 1080,
-			"camTextFaceCamera": true,
-			"camFilter": "None",
-			"camNotes": ""
-		},
-		{
-			"camLocation":
-			{
-				"Rotation":
-				{
-					"X": 0.35693055391311646,
-					"Y": 0.028690410777926445,
-					"Z": -0.93068850040435791,
-					"W": 0.07480960339307785
-				},
-				"Translation":
-				{
-					"X": 2949.514892578125,
-					"Y": -733.96807861328125,
-					"Z": 678.55718994140625
-				},
-				"Scale3D":
-				{
-					"X": 1,
-					"Y": 1,
-					"Z": 1
-				}
-			},
-			"camFOV": 91,
 			"camName": "Top",
 			"camPerspective": "perspective",
 			"camSequenceNo": 1,
@@ -2788,16 +3533,16 @@
 			{
 				"Rotation":
 				{
-					"X": -0.086848899722099304,
-					"Y": 0.0012256968766450882,
-					"Z": 0.99612158536911011,
-					"W": 0.014058245345950127
+					"X": 0.28129148483276367,
+					"Y": 0.16436591744422913,
+					"Z": -0.81629914045333862,
+					"W": 0.47698476910591125
 				},
 				"Translation":
 				{
-					"X": 2775.1875,
-					"Y": -820.2938232421875,
-					"Z": 163.13983154296875
+					"X": -235.3135986328125,
+					"Y": 1219.6474609375,
+					"Z": 807.7603759765625
 				},
 				"Scale3D":
 				{
@@ -2807,9 +3552,189 @@
 				}
 			},
 			"camFOV": 90,
-			"camName": "Box",
+			"camName": "Top Right",
 			"camPerspective": "perspective",
 			"camSequenceNo": 2,
+			"camCelShade": false,
+			"camSimplify": false,
+			"camTop2DView": false,
+			"camSizeX": 0,
+			"camSizeY": 0,
+			"camTextFaceCamera": false,
+			"camFilter": "None",
+			"camNotes": ""
+		},
+		{
+			"camLocation":
+			{
+				"Rotation":
+				{
+					"X": 0.12046562135219574,
+					"Y": 0.33798450231552124,
+					"Z": -0.31337884068489075,
+					"W": 0.87923163175582886
+				},
+				"Translation":
+				{
+					"X": -1414.01806640625,
+					"Y": 892.04595947265625,
+					"Z": 807.7603759765625
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"camFOV": 90,
+			"camName": "Top Left",
+			"camPerspective": "perspective",
+			"camSequenceNo": 3,
+			"camCelShade": false,
+			"camSimplify": false,
+			"camTop2DView": false,
+			"camSizeX": 0,
+			"camSizeY": 0,
+			"camTextFaceCamera": false,
+			"camFilter": "None",
+			"camNotes": ""
+		},
+		{
+			"camLocation":
+			{
+				"Rotation":
+				{
+					"X": 0.2351287454366684,
+					"Y": 0.14224754273891449,
+					"Z": -0.82266652584075928,
+					"W": 0.49769455194473267
+				},
+				"Translation":
+				{
+					"X": -405.15518188476562,
+					"Y": -51.16778564453125,
+					"Z": 419.21359252929688
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"camFOV": 90,
+			"camName": "Front Right",
+			"camPerspective": "perspective",
+			"camSequenceNo": 4,
+			"camCelShade": false,
+			"camSimplify": false,
+			"camTop2DView": false,
+			"camSizeX": 0,
+			"camSizeY": 0,
+			"camTextFaceCamera": false,
+			"camFilter": "None",
+			"camNotes": ""
+		},
+		{
+			"camLocation":
+			{
+				"Rotation":
+				{
+					"X": 0.13219381868839264,
+					"Y": 0.24775625765323639,
+					"Z": -0.45180445909500122,
+					"W": 0.84676706790924072
+				},
+				"Translation":
+				{
+					"X": -1310.8701171875,
+					"Y": -74.270965576171875,
+					"Z": 419.21359252929688
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"camFOV": 90,
+			"camName": "Front Left",
+			"camPerspective": "perspective",
+			"camSequenceNo": 5,
+			"camCelShade": false,
+			"camSimplify": false,
+			"camTop2DView": false,
+			"camSizeX": 0,
+			"camSizeY": 0,
+			"camTextFaceCamera": false,
+			"camFilter": "None",
+			"camNotes": ""
+		},
+		{
+			"camLocation":
+			{
+				"Rotation":
+				{
+					"X": 0.091169804334640503,
+					"Y": 0.084005653858184814,
+					"Z": -0.72973746061325073,
+					"W": 0.67239445447921753
+				},
+				"Translation":
+				{
+					"X": -576.672119140625,
+					"Y": 1147.4755859375,
+					"Z": 166.22874450683594
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"camFOV": 90,
+			"camName": "Rear",
+			"camPerspective": "perspective",
+			"camSequenceNo": 6,
+			"camCelShade": false,
+			"camSimplify": false,
+			"camTop2DView": false,
+			"camSizeX": 0,
+			"camSizeY": 0,
+			"camTextFaceCamera": false,
+			"camFilter": "None",
+			"camNotes": ""
+		},
+		{
+			"camLocation":
+			{
+				"Rotation":
+				{
+					"X": 0.10985742509365082,
+					"Y": 0.097078129649162292,
+					"Z": -0.74125015735626221,
+					"W": 0.65502321720123291
+				},
+				"Translation":
+				{
+					"X": -506.56512451171875,
+					"Y": -173.826171875,
+					"Z": 165.94223022460938
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"camFOV": 90,
+			"camName": "Front",
+			"camPerspective": "perspective",
+			"camSequenceNo": 7,
 			"camCelShade": false,
 			"camSimplify": false,
 			"camTop2DView": false,
@@ -2826,9 +3751,9 @@
 	"matchDate": "",
 	"isTopView": false,
 	"fileVersion": "1.0.54",
-	"printLayoutPage": false,
+	"printLayoutPage": true,
 	"customImageForLayout": false,
-	"customImagePortrait": true,
+	"customImagePortrait": false,
 	"printBuildList": false,
 	"dynamicWeatherSettings":
 	{
@@ -2847,20 +3772,20 @@
 	"osType": "Windows",
 	"printMoreViews": true,
 	"moreViewsCameraArray": [
-		"Box",
-		"",
-		"",
-		"",
-		"",
-		"",
+		"Top Left",
+		"Top Right",
+		"Front Left",
+		"Front Right",
+		"Rear",
+		"Front",
 		"",
 		""
 	],
-	"readyCondition": "Loaded",
+	"readyCondition": "",
 	"timeStart": "Audible",
 	"useCustomImageBottomBar": false,
 	"thumbnail": false,
 	"pcsl-division": "2-Gun",
-	"pcsl-partime": 60,
+	"pcsl-partime": 0,
 	"override-hitcount": ""
 }
